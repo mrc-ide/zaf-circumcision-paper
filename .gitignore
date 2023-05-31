@@ -1,0 +1,6 @@
+Data/
+Output/
+*.so
+*.o
+.Rhistory
+.DS_Store
