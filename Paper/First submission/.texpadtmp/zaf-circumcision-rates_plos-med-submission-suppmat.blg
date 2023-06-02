@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is '/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.blg'
+[50] biber-darwin:340> INFO - === Fri Feb 17, 2023, 15:54:06
+[61] Biber.pm:415> INFO - Reading '/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.bcf'
+[126] Biber.pm:952> INFO - Found 8 citekeys in bib section 0
+[140] Biber.pm:4340> INFO - Processing section 0
+[148] Biber.pm:4531> INFO - Looking for bibtex format file '/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/Refs.bib' for section 0
+[150] bibtex.pm:1689> INFO - LaTeX decoding ...
+[186] bibtex.pm:1494> INFO - Found BibTeX data source '/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/Refs.bib'
+[262] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[262] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[262] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[262] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[269] bbl.pm:654> INFO - Writing '/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.bbl' with encoding 'UTF-8'
+[279] bbl.pm:757> INFO - Output to /Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.bbl

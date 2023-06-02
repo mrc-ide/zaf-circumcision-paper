@@ -1,0 +1,464 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{putter2006tutorial}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bb04d5cfc5891c418feeb5066f8b0374}{%
+           family={Putter},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=152ddb50175be4157d1fc28abd259203}{%
+           family={Fiocco},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9afef619db66305ba9cc7b1dc5f4b9b4}{%
+           family={Geskus},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f579b6e2a7c35c36c51188ceb06e987}
+      \strng{fullhash}{cf37e46092cfd3736235416215bfc968}
+      \strng{bibnamehash}{cf37e46092cfd3736235416215bfc968}
+      \strng{authorbibnamehash}{cf37e46092cfd3736235416215bfc968}
+      \strng{authornamehash}{1f579b6e2a7c35c36c51188ceb06e987}
+      \strng{authorfullhash}{cf37e46092cfd3736235416215bfc968}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics in Medicine}
+      \field{title}{{T}utorial in biostatistics: {C}ompeting risks and multi-state models}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{2389\bibrangedash 2430}
+      \range{pages}{42}
+    \endentry
+    \entry{besag1995conditional}{article}{}
+      \name{author}{2}{}{%
+        {{hash=88cb1cda62a3c1c6c5dfbdb50798c38a}{%
+           family={Besag},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3ca451a580a5c4693b79a549a40cf2ec}{%
+           family={Kooperberg},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{fullhash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{bibnamehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{authorbibnamehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{authornamehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{authorfullhash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biometrika}
+      \field{number}{4}
+      \field{title}{On conditional and intrinsic autoregressions}
+      \field{volume}{82}
+      \field{year}{1995}
+      \field{pages}{733\bibrangedash 746}
+      \range{pages}{14}
+    \endentry
+    \entry{rue2005gaussian}{book}{}
+      \name{author}{2}{}{%
+        {{hash=174800a2deee884ac0ac18b60684a400}{%
+           family={Rue},
+           familyi={R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=82875e683acb8a0a9fc674fac54f12c6}{%
+           family={Held},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{9a366ea552cb1c24989d8a99fdbed160}
+      \strng{fullhash}{9a366ea552cb1c24989d8a99fdbed160}
+      \strng{bibnamehash}{9a366ea552cb1c24989d8a99fdbed160}
+      \strng{authorbibnamehash}{9a366ea552cb1c24989d8a99fdbed160}
+      \strng{authornamehash}{9a366ea552cb1c24989d8a99fdbed160}
+      \strng{authorfullhash}{9a366ea552cb1c24989d8a99fdbed160}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{G}aussian {M}arkov random fields: theory and applications}
+      \field{year}{2005}
+    \endentry
+    \entry{knorr2000bayesian}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8303818a78c0ae6ff119962a3d8d30de}{%
+           family={Knorr-Held},
+           familyi={K\bibinithyphendelim H\bibinitperiod},
+           given={Leonhard},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{fullhash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{bibnamehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{authorbibnamehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{authornamehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{authorfullhash}{8303818a78c0ae6ff119962a3d8d30de}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics in medicine}
+      \field{number}{17-18}
+      \field{title}{{B}ayesian modelling of inseparable space-time variation in disease risk}
+      \field{volume}{19}
+      \field{year}{2000}
+      \field{pages}{2555\bibrangedash 2567}
+      \range{pages}{13}
+    \endentry
+    \entry{rcore}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{R Foundation for Statistical Computing, Vienna, Austria}
+      \field{title}{{R}: {A} {L}anguage and {E}nvironment for {S}tatistical {C}omputing.}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{kristensen2016tmb}{article}{}
+      \name{author}{5}{}{%
+        {{hash=531743fc9005d9ced7313a8271a90ee2}{%
+           family={Kristensen},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c33d1709da4aeda3565cdabb50b0b55a}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7091e01257e9e2191f88d3277a53c7f5}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=563d31d10ac6f91b41a68d17553ca6a6}{%
+           family={Skaug},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c92b2d64065da998905e1e76746c84fb}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{71b96cba45a76179cdee7a77b5de19f1}
+      \strng{fullhash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \strng{bibnamehash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \strng{authorbibnamehash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \strng{authornamehash}{71b96cba45a76179cdee7a77b5de19f1}
+      \strng{authorfullhash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{title}{{TMB}: {A}utomatic differentiation and {L}aplace approximation.}
+      \field{volume}{70}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+    \endentry
+    \entry{byrd1995limited}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e2ac09405cb85135f5a66b1461714aa0}{%
+           family={Byrd},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7105372b0f161d8a7f87fcad27e4fcc9}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a375d39ab0f7a753973e8e3564576d56}{%
+           family={Nocedal},
+           familyi={N\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9c4f74447bd064e137b853534877a881}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{20d5ccbe22faa4fce634d0547c2bb21c}
+      \strng{fullhash}{abd3787977bf9377fef1e9812cd0e396}
+      \strng{bibnamehash}{abd3787977bf9377fef1e9812cd0e396}
+      \strng{authorbibnamehash}{abd3787977bf9377fef1e9812cd0e396}
+      \strng{authornamehash}{20d5ccbe22faa4fce634d0547c2bb21c}
+      \strng{authorfullhash}{abd3787977bf9377fef1e9812cd0e396}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal on scientific computing}
+      \field{number}{5}
+      \field{title}{{A} limited memory algorithm for bound constrained optimization}
+      \field{volume}{16}
+      \field{year}{1995}
+      \field{pages}{1190\bibrangedash 1208}
+      \range{pages}{19}
+    \endentry
+    \entry{eaton2021naomi}{article}{}
+      \name{author}{36}{}{%
+        {{hash=1735f7935ec3925f2deadd58a106ccd5}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=2bf593437206692954a00294bdf1b348}{%
+           family={Dwyer-Lindgren},
+           familyi={D\bibinithyphendelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=dfe05f42bfcbbbf62136937e65ec0b10}{%
+           family={Gutreuter},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=00a526dbcb8590cddbf47e55ce4cd23f}{%
+           family={O'Driscoll},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=569958c3764065e665d1e7b80efb088d}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f42096a0b97a824f8ec3daa6db669d34}{%
+           family={Bajaj},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ba84e9a20aad4ef7f662aedd26be350a}{%
+           family={Ashton},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e2b5bf528e9d001acddf4e8ad46993e3}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bd9a89a2da35d991b4aa09814655c083}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1695a9f6501aaf8f4e067d0938112f35}{%
+           family={Esra},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2e8d5fa4c8966cd6fbe7fb8adc39d962}{%
+           family={Dolan},
+           familyi={D\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=78318d6ceaf624135b4f959a8ea3d204}{%
+           family={Anifowoshe},
+           familyi={A\bibinitperiod},
+           given={Y.\bibnamedelimi L.},
+           giveni={Y\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f27835398a4daa3a7be9517f8ffed34d}{%
+           family={Fellows},
+           familyi={F\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ba995aa9a1069ceb3d168d321a4e525a}{%
+           family={Glaubius},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ea52ec84e26e6536e9619efd30af2fba}{%
+           family={Haeuser},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9701802eb1a02d2161dc4e5dbd5f5a88}{%
+           family={Okonek},
+           familyi={O\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=76daf7ad6078e196686c0c59a80073a9}{%
+           family={Stover},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=92caa5bd2ee7fd3ab419b90bed9bc51a}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=267b1599890a6b301833e267a9e004d8}{%
+           family={Wakefield},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=76b19170816c2f29b661ad5b473a0339}{%
+           family={Wolock},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=076d03fc51a33d1f4e61227ef3b65271}{%
+           family={Berry},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3075fb1b8ac73b4fbcaba7f13c4bd31b}{%
+           family={Sabala},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8820b5987c68cdc8e5c54942a29d2b0a}{%
+           family={Heard},
+           familyi={H\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3736777a8337a6577d1b2adf111dee8b}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=287e0efc769f2ef552a8d7b2f04cacf5}{%
+           family={Pantazis},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c697afcc057a59b19ae9729767b83684}{%
+           family={Jahn},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=149f905ceb173b5376722b237801c41c}{%
+           family={Kalua},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a4dd633c592e44361e5bc1793d08541e}{%
+           family={Chimpandule},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=311c213a910488d23084f6f5fa82d685}{%
+           family={Auld},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=48f44b0a91f1773b3d5345cddb124959}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7f46934a18caf247d0f18d5454281341}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=59946edde15bf5c2a1ddd872ad15ca31}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={L.\bibnamedelimi F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e6d29c8a37c18da79ceca0eaeca7a0f5}{%
+           family={Fitzjohn},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=48a5ae4df8ce0ca17f7f0244831f2009}{%
+           family={Wankyeki},
+           familyi={W\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7292663a1d9e6c15d8fc8b3005478d20}{%
+           family={Mahy},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8066c40be8f1a4fe9b46ef8b86460b8c}{%
+           family={Shiraishi},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{fullhash}{169332753e8c2a0320d2d3ee5dc8e4fc}
+      \strng{bibnamehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{authorbibnamehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{authornamehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{authorfullhash}{169332753e8c2a0320d2d3ee5dc8e4fc}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Under review}
+      \field{title}{{N}aomi: {A} {N}ew {M}odelling {T}ool for {E}stimating {HIV} {E}pidemic {I}ndicators at the {D}istrict {L}evel in {S}ub-{S}aharan {A}frica}
+      \field{year}{2021}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

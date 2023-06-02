@@ -1,0 +1,49 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Statistical Methods}{3}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1}Process model}{5}{subsection.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {A.1.1}Probabilities of circumcision per time step}{6}{subsubsection.A.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {A.1.2}Cumulative incidence of circumcision}{8}{subsubsection.A.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2}Programme data model}{9}{subsection.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.3}Priors}{10}{subsection.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.4}Accounting for survey weights}{12}{subsection.A.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.5}Inference}{14}{subsection.A.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Data}{14}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.1}Survey data}{14}{subsection.B.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.2}Programme data}{16}{subsection.B.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C}Model fit}{21}{appendix.C}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {C.1}Coverage (MC)}{21}{subsection.C.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {C.2}Coverage of medical male circumcision (MMC-nT)}{32}{subsection.C.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {C.3}Coverage of traditional male circumcision (TMIC)}{43}{subsection.C.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {C.4}Number of VMMCs performed}{54}{subsection.C.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {D}Supplementary results}{57}{appendix.D}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.1}Annual probability of circumcision (MC)}{57}{subsection.D.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.2}Annual probability of medical circumcision (MMC)}{59}{subsection.D.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.3}Annual probability of traditional circumcision (TMC)}{61}{subsection.D.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.4}Circumcision coverage (MC)}{63}{subsection.D.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.5}Medical circumcision coverage (MMC)}{67}{subsection.D.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.6}Traditional circumcision coverage (TMC)}{69}{subsection.D.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {D.7}Number of circumcisions conducted}{71}{subsection.D.7}%

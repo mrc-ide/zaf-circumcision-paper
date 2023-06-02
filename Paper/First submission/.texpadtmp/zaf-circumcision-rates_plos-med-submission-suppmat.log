@@ -1,0 +1,1458 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  17 FEB 2023 15:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**zaf-circumcision-rates_plos-med-submission-suppmat.tex
+(./zaf-circumcision-rates_plos-med-submission-suppmat.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2020/08/18 v1.1.3 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count190
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen147
+\pgfutil@tempdimb=\dimen148
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box47
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen151
+\pgf@y=\dimen152
+\pgf@xa=\dimen153
+\pgf@ya=\dimen154
+\pgf@xb=\dimen155
+\pgf@yb=\dimen156
+\pgf@xc=\dimen157
+\pgf@yc=\dimen158
+\pgf@xd=\dimen159
+\pgf@yd=\dimen160
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count191
+\c@pgf@countb=\count192
+\c@pgf@countc=\count193
+\c@pgf@countd=\count194
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count195
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count196
+\pgfsyssoftpath@bigbuffer@items=\count197
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen161
+\pgfmath@count=\count198
+\pgfmath@box=\box48
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count199
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen162
+\pgf@picmaxx=\dimen163
+\pgf@picminy=\dimen164
+\pgf@picmaxy=\dimen165
+\pgf@pathminx=\dimen166
+\pgf@pathmaxx=\dimen167
+\pgf@pathminy=\dimen168
+\pgf@pathmaxy=\dimen169
+\pgf@xx=\dimen170
+\pgf@xy=\dimen171
+\pgf@yx=\dimen172
+\pgf@yy=\dimen173
+\pgf@zx=\dimen174
+\pgf@zy=\dimen175
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen176
+\pgf@path@lasty=\dimen177
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen178
+\pgf@shorten@start@additional=\dimen179
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count266
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen180
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen181
+\pgf@pt@y=\dimen182
+\pgf@pt@temp=\dimen183
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen184
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen185
+\pgf@sys@shading@range@num=\count267
+\pgf@shadingcount=\count268
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box52
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box53
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen186
+\pgf@nodesepend=\dimen187
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen188
+\pgffor@skip=\dimen189
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count269
+\pgfplotmarksize=\dimen190
+)
+\tikz@lastx=\dimen191
+\tikz@lasty=\dimen192
+\tikz@lastxsaved=\dimen193
+\tikz@lastysaved=\dimen194
+\tikz@lastmovetox=\dimen195
+\tikz@lastmovetoy=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count270
+\tikznumberofchildren=\count271
+\tikznumberofcurrentchild=\count272
+\tikz@fig@count=\count273
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count274
+\pgfmatrixcurrentcolumn=\count275
+\pgf@matrix@numberofcolumns=\count276
+)
+\tikz@expandcount=\count277
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count278
+\calc@Bcount=\count279
+\calc@Adimen=\dimen199
+\calc@Bdimen=\dimen256
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count280
+\calc@Cskip=\skip51
+)
+\c@@todonotes@numberoftodonotes=\count281
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks31
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen257
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen258
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count282
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count283
+\leftroot@=\count284
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count285
+\DOTSCASE@=\count286
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+\big@size=\dimen259
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count287
+\c@MaxMatrixCols=\count288
+\dotsspace@=\muskip16
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks33
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks34
+\eqnshift@=\dimen260
+\alignsep@=\dimen261
+\tagshift@=\dimen262
+\tagwidth@=\dimen263
+\totwidth@=\dimen264
+\lineht@=\dimen265
+\@envbody=\toks35
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen266
+\captionmargin@=\dimen267
+\captionwidth=\dimen268
+\caption@tempdima=\dimen269
+\caption@indent=\dimen270
+\caption@parindent=\dimen271
+\caption@hangindent=\dimen272
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count294
+\c@continuedfloat=\count295
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count296
+\c@subtable=\count297
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks37
+\inpenc@posthook=\toks38
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip55
+\@affilsep=\skip56
+\c@Maxaffil=\count298
+\c@authors=\count299
+\c@affil=\count300
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen273
+\ESO@tempdimb=\dimen274
+)
+\AM@pagewidth=\dimen275
+\AM@pageheight=\dimen276
+\AM@fboxrule=\dimen277
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count301
+\AM@pagebox=\box60
+\AM@global@opts=\toks39
+\AM@pagecnt=\count302
+\AM@toc@title=\toks40
+\c@AM@survey=\count303
+\AM@templatesizebox=\box61
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen278
+\lightrulewidth=\dimen279
+\cmidrulewidth=\dimen280
+\belowrulesep=\dimen281
+\belowbottomsep=\dimen282
+\aboverulesep=\dimen283
+\abovetopsep=\dimen284
+\cmidrulesep=\dimen285
+\cmidrulekern=\dimen286
+\defaultaddspace=\dimen287
+\@cmidla=\count304
+\@cmidlb=\count305
+\@aboverulesep=\dimen288
+\@belowrulesep=\dimen289
+\@thisruleclass=\count306
+\@lastruleclass=\count307
+\@thisrulewidth=\dimen290
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count308
+\LTcapwidth=\dimen291
+\LT@head=\box62
+\LT@firsthead=\box63
+\LT@foot=\box64
+\LT@lastfoot=\box65
+\LT@cols=\count309
+\LT@rows=\count310
+\c@LT@tables=\count311
+\c@LT@chunks=\count312
+\LT@p@ftn=\toks41
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count313
+\float@exts=\toks42
+\float@box=\box66
+\@float@everytoks=\toks43
+\@floatcapt=\box67
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen292
+\Hy@linkcounter=\count314
+\Hy@pagecounter=\count315
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count316
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count317
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen293
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count318
+\Field@Width=\dimen294
+\Fld@charsize=\dimen295
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring ON on input line 6093.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count319
+\c@Item=\count320
+\c@Hfootnote=\count321
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+)
+\Fld@listcount=\count322
+\c@bookmark@seq@number=\count323
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip61
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip62
+\multirow@cntb=\count324
+\multirow@dima=\skip63
+\bigstrutjot=\dimen296
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count325
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\arrowsize=\dimen297
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count326
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count327
+\c@listtotal=\count328
+\c@listcount=\count329
+\c@liststart=\count330
+\c@liststop=\count331
+\c@citecount=\count332
+\c@citetotal=\count333
+\c@multicitecount=\count334
+\c@multicitetotal=\count335
+\c@instcount=\count336
+\c@maxnames=\count337
+\c@minnames=\count338
+\c@maxitems=\count339
+\c@minitems=\count340
+\c@citecounter=\count341
+\c@maxcitecounter=\count342
+\c@savedcitecounter=\count343
+\c@uniquelist=\count344
+\c@uniquename=\count345
+\c@refsection=\count346
+\c@refsegment=\count347
+\c@maxextratitle=\count348
+\c@maxextratitleyear=\count349
+\c@maxextraname=\count350
+\c@maxextradate=\count351
+\c@maxextraalpha=\count352
+\c@abbrvpenalty=\count353
+\c@highnamepenalty=\count354
+\c@lownamepenalty=\count355
+\c@maxparens=\count356
+\c@parenlevel=\count357
+\blx@tempcnta=\count358
+\blx@tempcntb=\count359
+\blx@tempcntc=\count360
+\blx@maxsection=\count361
+\blx@maxsegment@0=\count362
+\blx@notetype=\count363
+\blx@parenlevel@text=\count364
+\blx@parenlevel@foot=\count365
+\blx@sectionciteorder@0=\count366
+\blx@entrysetcounter=\count367
+\blx@biblioinstance=\count368
+\labelnumberwidth=\skip64
+\labelalphawidth=\skip65
+\biblabelsep=\skip66
+\bibitemsep=\skip67
+\bibnamesep=\skip68
+\bibinitsep=\skip69
+\bibparsep=\skip70
+\bibhang=\skip71
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language87
+\c@mincomprange=\count369
+\c@maxcomprange=\count370
+\c@mincompwidth=\count371
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'nature.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count372
+\c@savedafterword=\count373
+\c@annotator=\count374
+\c@savedannotator=\count375
+\c@author=\count376
+\c@savedauthor=\count377
+\c@bookauthor=\count378
+\c@savedbookauthor=\count379
+\c@commentator=\count380
+\c@savedcommentator=\count381
+\c@editor=\count382
+\c@savededitor=\count383
+\c@editora=\count384
+\c@savededitora=\count385
+\c@editorb=\count386
+\c@savededitorb=\count387
+\c@editorc=\count388
+\c@savededitorc=\count389
+\c@foreword=\count390
+\c@savedforeword=\count391
+\c@holder=\count392
+\c@savedholder=\count393
+\c@introduction=\count394
+\c@savedintroduction=\count395
+\c@namea=\count396
+\c@savednamea=\count397
+\c@nameb=\count398
+\c@savednameb=\count399
+\c@namec=\count400
+\c@savednamec=\count401
+\c@translator=\count402
+\c@savedtranslator=\count403
+\c@shortauthor=\count404
+\c@savedshortauthor=\count405
+\c@shorteditor=\count406
+\c@savedshorteditor=\count407
+\c@labelname=\count408
+\c@savedlabelname=\count409
+\c@institution=\count410
+\c@savedinstitution=\count411
+\c@lista=\count412
+\c@savedlista=\count413
+\c@listb=\count414
+\c@savedlistb=\count415
+\c@listc=\count416
+\c@savedlistc=\count417
+\c@listd=\count418
+\c@savedlistd=\count419
+\c@liste=\count420
+\c@savedliste=\count421
+\c@listf=\count422
+\c@savedlistf=\count423
+\c@location=\count424
+\c@savedlocation=\count425
+\c@organization=\count426
+\c@savedorganization=\count427
+\c@origlocation=\count428
+\c@savedoriglocation=\count429
+\c@origpublisher=\count430
+\c@savedorigpublisher=\count431
+\c@publisher=\count432
+\c@savedpublisher=\count433
+\c@language=\count434
+\c@savedlanguage=\count435
+\c@origlanguage=\count436
+\c@savedoriglanguage=\count437
+\c@pageref=\count438
+\c@savedpageref=\count439
+\shorthandwidth=\skip72
+\shortjournalwidth=\skip73
+\shortserieswidth=\skip74
+\shorttitlewidth=\skip75
+\shortauthorwidth=\skip76
+\shorteditorwidth=\skip77
+\locallabelnumberwidth=\skip78
+\locallabelalphawidth=\skip79
+\localshorthandwidth=\skip80
+\localshortjournalwidth=\skip81
+\localshortserieswidth=\skip82
+\localshorttitlewidth=\skip83
+\localshortauthorwidth=\skip84
+\localshorteditorwidth=\skip85
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count440
+\c@textcitetotal=\count441
+\c@textcitemaxnames=\count442
+\c@biburlbigbreakpenalty=\count443
+\c@biburlbreakpenalty=\count444
+\c@biburlnumpenalty=\count445
+\c@biburlucpenalty=\count446
+\c@biburllcpenalty=\count447
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count448
+)
+Package biblatex Info: Trying to load bibliography style 'nature'...
+Package biblatex Info: ... file 'nature.bbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-nature/nature.bbx
+File: nature.bbx 2020/12/30 v1.3d biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count449
+\c@bbx:relatedtotal=\count450
+))))
+Package biblatex Info: Trying to load citation style 'nature'...
+Package biblatex Info: ... file 'nature.cbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-nature/nature.cbx
+File: nature.cbx 2020/12/30 v1.3d biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count451
+\c@cbx@tempcntb=\count452
+\c@cbx@tempcntc=\count453
+\c@cbx@tempcntd=\count454
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+\@quotelevel=\count455
+\@quotereset=\count456
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count457
+\l__pdf_internal_box=\box68
+) (/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.aux)
+\openout1 = `zaf-circumcision-rates_plos-med-submission-suppmat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=624.25346pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count458
+\scratchdimen=\dimen298
+\scratchbox=\box69
+\nofMPsegments=\count459
+\nofMParguments=\count460
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count461
+\MPscratchDim=\dimen299
+\MPnumerator=\count462
+\makeMPintoPDFobject=\count463
+\everyMPtoPDFconversion=\toks45
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Info: Redefining \celsius on input line 85.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 85.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 85.
+Package gensymb Info: Using \Omega for \ohm on input line 85.
+
+Package gensymb Warning: Not defining \micro.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 85.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count464
+)
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
+ (/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.out) (/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.out)
+\@outlinefile=\write5
+\openout5 = `zaf-circumcision-rates_plos-med-submission-suppmat.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-02-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `zaf-circumcision-rates_plos-med-submission-suppmat.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'zaf-circumcision-rates_plos-med-submission-suppmat.bbl' found.
+ (/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.bbl)
+Package biblatex Info: Reference section=0 on input line 85.
+Package biblatex Info: Reference segment=0 on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (8.31178pt too wide) in paragraph at lines 95--107
+[]\T1/cmr/m/n/10 Matthew L. Thomas$[]$, Khange-lani Zuma$[]$, Daya-nund Loykissoonlal$[]$, Brid-get Dube$[]$, Pe-ter Vranken$[]$,
+ []
+
+
+Overfull \hbox (1.00801pt too wide) in paragraph at lines 95--107
+\T1/cmr/m/n/10 Sarah E. Porter$[]$, Katharine Kripke$[]$, Thapelo Seatlhodi$[]$, Ge-sine Meyer-Rath$[]$, Leigh F. Johnson$[]$,
+ []
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.toc)
+\tf@toc=\write6
+\openout6 = `zaf-circumcision-rates_plos-med-submission-suppmat.toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+[3]
+Underfull \hbox (badness 2503) in paragraph at lines 220--221
+[]\T1/cmr/m/it/9 Circumcision cov-er-age (cu-mu-la-tive in-ci-
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 293--295
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
+
+ []
+
+[7] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 428--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--440
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--446
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 462--464
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+
+ []
+
+[12]
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 499.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/bbm-macros/ubbm.fd
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+)
+Underfull \hbox (badness 10000) in paragraph at lines 507--509
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--552
+
+ []
+
+[14]
+Overfull \vbox (30.77466pt too high) detected at line 599
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 616--617
+
+ []
+
+[16]
+<Figures/suppmat/IDA/NumMMC_DHIS_District.pdf, id=287, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/IDA/NumMMC_DHIS_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/IDA/NumMMC_DHIS_District.pdf>
+Package pdftex.def Info: Figures/suppmat/IDA/NumMMC_DHIS_District.pdf  used on input line 623.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+<Figures/suppmat/IDA/NumMMC_PEPFAR_District.pdf, id=288, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/IDA/NumMMC_PEPFAR_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/IDA/NumMMC_PEPFAR_District.pdf>
+Package pdftex.def Info: Figures/suppmat/IDA/NumMMC_PEPFAR_District.pdf  used on input line 631.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [17 <./Figures/suppmat/IDA/NumMMC_DHIS_District.pdf>]
+<Figures/suppmat/IDA/NumMMC_DMPPT2_District.pdf, id=299, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/IDA/NumMMC_DMPPT2_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/IDA/NumMMC_DMPPT2_District.pdf>
+Package pdftex.def Info: Figures/suppmat/IDA/NumMMC_DMPPT2_District.pdf  used on input line 639.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [18 <./Figures/suppmat/IDA/NumMMC_PEPFAR_District.pdf>]
+<Figures/suppmat/IDA/NumMMC_Model_District.pdf, id=310, 1806.75pt x 1517.67pt>
+File: Figures/suppmat/IDA/NumMMC_Model_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/IDA/NumMMC_Model_District.pdf>
+Package pdftex.def Info: Figures/suppmat/IDA/NumMMC_Model_District.pdf  used on input line 647.
+(pdftex.def)             Requested size: 443.57848pt x 372.60818pt.
+ [19 <./Figures/suppmat/IDA/NumMMC_DMPPT2_District.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_National_withsurveypoints.pdf, id=322, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_National_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_National_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_National_withsurveypoints.pdf  used on input line 668.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [20 <./Figures/suppmat/IDA/NumMMC_Model_District.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_Province_2002_withsurveypoints.pdf, id=333, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2002_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_Province_2002_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2002_withsurveypoints.pdf  used on input line 676.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [21 <./Figures/suppmat/ModelFit/TotalPrev_5year_National_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_Province_2008_withsurveypoints.pdf, id=348, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2008_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_Province_2008_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2008_withsurveypoints.pdf  used on input line 684.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [22 <./Figures/suppmat/ModelFit/TotalPrev_5year_Province_2002_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_Province_2012_withsurveypoints.pdf, id=362, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2012_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_Province_2012_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2012_withsurveypoints.pdf  used on input line 692.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [23 <./Figures/suppmat/ModelFit/TotalPrev_5year_Province_2008_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_Province_2016_withsurveypoints.pdf, id=376, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2016_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_Province_2016_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2016_withsurveypoints.pdf  used on input line 700.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [24 <./Figures/suppmat/ModelFit/TotalPrev_5year_Province_2012_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_Province_2017_withsurveypoints.pdf, id=390, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2017_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_Province_2017_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_Province_2017_withsurveypoints.pdf  used on input line 708.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [25 <./Figures/suppmat/ModelFit/TotalPrev_5year_Province_2016_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_District_2002_withsurveypoints.pdf, id=405, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_District_2002_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_District_2002_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_District_2002_withsurveypoints.pdf  used on input line 716.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [26 <./Figures/suppmat/ModelFit/TotalPrev_5year_Province_2017_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_District_2008_withsurveypoints.pdf, id=419, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_District_2008_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_District_2008_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_District_2008_withsurveypoints.pdf  used on input line 724.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [27 <./Figures/suppmat/ModelFit/TotalPrev_5year_District_2002_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_District_2012_withsurveypoints.pdf, id=433, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_District_2012_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_District_2012_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_District_2012_withsurveypoints.pdf  used on input line 732.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [28 <./Figures/suppmat/ModelFit/TotalPrev_5year_District_2008_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_District_2016_withsurveypoints.pdf, id=447, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_District_2016_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_District_2016_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_District_2016_withsurveypoints.pdf  used on input line 740.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [29 <./Figures/suppmat/ModelFit/TotalPrev_5year_District_2012_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TotalPrev_5year_District_2017_withsurveypoints.pdf, id=462, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TotalPrev_5year_District_2017_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TotalPrev_5year_District_2017_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TotalPrev_5year_District_2017_withsurveypoints.pdf  used on input line 748.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [30 <./Figures/suppmat/ModelFit/TotalPrev_5year_District_2016_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_National_withsurveypoints.pdf, id=476, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_National_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_National_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_National_withsurveypoints.pdf  used on input line 762.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [31 <./Figures/suppmat/ModelFit/TotalPrev_5year_District_2017_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2002_withsurveypoints.pdf, id=491, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2002_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2002_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2002_withsurveypoints.pdf  used on input line 770.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [32 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_National_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2008_withsurveypoints.pdf, id=505, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2008_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2008_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2008_withsurveypoints.pdf  used on input line 778.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [33 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2002_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2012_withsurveypoints.pdf, id=519, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2012_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2012_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2012_withsurveypoints.pdf  used on input line 786.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [34 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2008_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2016_withsurveypoints.pdf, id=533, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2016_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2016_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2016_withsurveypoints.pdf  used on input line 794.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [35 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2012_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2017_withsurveypoints.pdf, id=547, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2017_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2017_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2017_withsurveypoints.pdf  used on input line 802.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [36 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2016_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2002_withsurveypoints.pdf, id=561, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2002_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2002_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2002_withsurveypoints.pdf  used on input line 810.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [37 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_Province_2017_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2008_withsurveypoints.pdf, id=576, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2008_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2008_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2008_withsurveypoints.pdf  used on input line 818.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [38 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2002_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2012_withsurveypoints.pdf, id=591, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2012_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2012_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2012_withsurveypoints.pdf  used on input line 826.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [39 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2008_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2016_withsurveypoints.pdf, id=605, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2016_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2016_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2016_withsurveypoints.pdf  used on input line 834.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [40 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2012_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2017_withsurveypoints.pdf, id=619, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2017_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2017_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2017_withsurveypoints.pdf  used on input line 842.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [41 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2016_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_National_withsurveypoints.pdf, id=633, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_National_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_National_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_National_withsurveypoints.pdf  used on input line 856.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [42 <./Figures/suppmat/ModelFit/MMCnTPrev_5year_District_2017_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_Province_2002_withsurveypoints.pdf, id=647, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2002_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_Province_2002_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2002_withsurveypoints.pdf  used on input line 864.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [43 <./Figures/suppmat/ModelFit/TMICPrev_5year_National_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_Province_2008_withsurveypoints.pdf, id=662, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2008_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_Province_2008_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2008_withsurveypoints.pdf  used on input line 872.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [44 <./Figures/suppmat/ModelFit/TMICPrev_5year_Province_2002_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_Province_2012_withsurveypoints.pdf, id=676, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2012_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_Province_2012_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2012_withsurveypoints.pdf  used on input line 880.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [45 <./Figures/suppmat/ModelFit/TMICPrev_5year_Province_2008_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_Province_2016_withsurveypoints.pdf, id=690, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2016_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_Province_2016_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2016_withsurveypoints.pdf  used on input line 888.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [46 <./Figures/suppmat/ModelFit/TMICPrev_5year_Province_2012_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_Province_2017_withsurveypoints.pdf, id=704, 867.24pt x 650.43pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2017_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_Province_2017_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_Province_2017_withsurveypoints.pdf  used on input line 896.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [47 <./Figures/suppmat/ModelFit/TMICPrev_5year_Province_2016_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_District_2002_withsurveypoints.pdf, id=719, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_District_2002_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_District_2002_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_District_2002_withsurveypoints.pdf  used on input line 904.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [48 <./Figures/suppmat/ModelFit/TMICPrev_5year_Province_2017_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_District_2008_withsurveypoints.pdf, id=733, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_District_2008_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_District_2008_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_District_2008_withsurveypoints.pdf  used on input line 912.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [49 <./Figures/suppmat/ModelFit/TMICPrev_5year_District_2002_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_District_2012_withsurveypoints.pdf, id=748, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_District_2012_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_District_2012_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_District_2012_withsurveypoints.pdf  used on input line 920.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [50 <./Figures/suppmat/ModelFit/TMICPrev_5year_District_2008_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_District_2016_withsurveypoints.pdf, id=762, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_District_2016_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_District_2016_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_District_2016_withsurveypoints.pdf  used on input line 928.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [51 <./Figures/suppmat/ModelFit/TMICPrev_5year_District_2012_withsurveypoints.pdf>]
+<Figures/suppmat/ModelFit/TMICPrev_5year_District_2017_withsurveypoints.pdf, id=776, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/ModelFit/TMICPrev_5year_District_2017_withsurveypoints.pdf Graphic file (type pdf)
+<use Figures/suppmat/ModelFit/TMICPrev_5year_District_2017_withsurveypoints.pdf>
+Package pdftex.def Info: Figures/suppmat/ModelFit/TMICPrev_5year_District_2017_withsurveypoints.pdf  used on input line 936.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [52 <./Figures/suppmat/ModelFit/TMICPrev_5year_District_2016_withsurveypoints.pdf>]
+<Figures/suppmat/VMMCs/MMCsComparison_National.pdf, id=790, 867.24pt x 650.43pt>
+File: Figures/suppmat/VMMCs/MMCsComparison_National.pdf Graphic file (type pdf)
+<use Figures/suppmat/VMMCs/MMCsComparison_National.pdf>
+Package pdftex.def Info: Figures/suppmat/VMMCs/MMCsComparison_National.pdf  used on input line 950.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [53 <./Figures/suppmat/ModelFit/TMICPrev_5year_District_2017_withsurveypoints.pdf>]
+<Figures/suppmat/VMMCs/MMCsComparison_Province.pdf, id=804, 867.24pt x 650.43pt>
+File: Figures/suppmat/VMMCs/MMCsComparison_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/VMMCs/MMCsComparison_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/VMMCs/MMCsComparison_Province.pdf  used on input line 958.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [54 <./Figures/suppmat/VMMCs/MMCsComparison_National.pdf>]
+<Figures/suppmat/VMMCs/MMCsComparison_District.pdf, id=815, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/VMMCs/MMCsComparison_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/VMMCs/MMCsComparison_District.pdf>
+Package pdftex.def Info: Figures/suppmat/VMMCs/MMCsComparison_District.pdf  used on input line 966.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [55 <./Figures/suppmat/VMMCs/MMCsComparison_Province.pdf>]
+<Figures/suppmat/Rates/ProbabilityofMC_SingleAge_Province.pdf, id=827, 867.24pt x 650.43pt>
+File: Figures/suppmat/Rates/ProbabilityofMC_SingleAge_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/Rates/ProbabilityofMC_SingleAge_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/Rates/ProbabilityofMC_SingleAge_Province.pdf  used on input line 987.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [56 <./Figures/suppmat/VMMCs/MMCsComparison_District.pdf>]
+<Figures/suppmat/Rates/ProbabilityofMC_SingleAge_District.pdf, id=838, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/Rates/ProbabilityofMC_SingleAge_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/Rates/ProbabilityofMC_SingleAge_District.pdf>
+Package pdftex.def Info: Figures/suppmat/Rates/ProbabilityofMC_SingleAge_District.pdf  used on input line 995.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [57 <./Figures/suppmat/Rates/ProbabilityofMC_SingleAge_Province.pdf>]
+<Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_Province.pdf, id=853, 867.24pt x 650.43pt>
+File: Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_Province.pdf  used on input line 1009.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [58 <./Figures/suppmat/Rates/ProbabilityofMC_SingleAge_District.pdf>]
+<Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_District.pdf, id=867, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_District.pdf>
+Package pdftex.def Info: Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_District.pdf  used on input line 1017.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [59 <./Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_Province.pdf>]
+<Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_Province.pdf, id=881, 867.24pt x 650.43pt>
+File: Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_Province.pdf  used on input line 1031.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [60 <./Figures/suppmat/Rates/ProbabilityofMMC_SingleAge_District.pdf>]
+<Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_District.pdf, id=895, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_District.pdf>
+Package pdftex.def Info: Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_District.pdf  used on input line 1039.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [61 <./Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_Province.pdf>]
+<Figures/suppmat/Coverage/MCcoverage_SingleAge_Province.pdf, id=910, 867.24pt x 650.43pt>
+File: Figures/suppmat/Coverage/MCcoverage_SingleAge_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/MCcoverage_SingleAge_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/MCcoverage_SingleAge_Province.pdf  used on input line 1053.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [62 <./Figures/suppmat/Rates/ProbabilityofTMC_SingleAge_District.pdf>]
+<Figures/suppmat/Coverage/MCcoverage_SingleAge_District.pdf, id=924, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/Coverage/MCcoverage_SingleAge_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/MCcoverage_SingleAge_District.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/MCcoverage_SingleAge_District.pdf  used on input line 1061.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [63 <./Figures/suppmat/Coverage/MCcoverage_SingleAge_Province.pdf>]
+<Figures/suppmat/Coverage/Coverage_1549_Province.pdf, id=938, 867.24pt x 650.43pt>
+File: Figures/suppmat/Coverage/Coverage_1549_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/Coverage_1549_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/Coverage_1549_Province.pdf  used on input line 1069.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [64 <./Figures/suppmat/Coverage/MCcoverage_SingleAge_District.pdf>]
+<Figures/suppmat/Coverage/Coverage_1549_District.pdf, id=952, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/Coverage/Coverage_1549_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/Coverage_1549_District.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/Coverage_1549_District.pdf  used on input line 1077.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [65 <./Figures/suppmat/Coverage/Coverage_1549_Province.pdf>]
+<Figures/suppmat/Coverage/MMCcoverage_SingleAge_Province.pdf, id=964, 867.24pt x 650.43pt>
+File: Figures/suppmat/Coverage/MMCcoverage_SingleAge_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/MMCcoverage_SingleAge_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/MMCcoverage_SingleAge_Province.pdf  used on input line 1091.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [66 <./Figures/suppmat/Coverage/Coverage_1549_District.pdf>]
+<Figures/suppmat/Coverage/MMCcoverage_SingleAge_District.pdf, id=977, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/Coverage/MMCcoverage_SingleAge_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/MMCcoverage_SingleAge_District.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/MMCcoverage_SingleAge_District.pdf  used on input line 1099.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [67 <./Figures/suppmat/Coverage/MMCcoverage_SingleAge_Province.pdf>]
+<Figures/suppmat/Coverage/TMCcoverage_SingleAge_Province.pdf, id=992, 867.24pt x 650.43pt>
+File: Figures/suppmat/Coverage/TMCcoverage_SingleAge_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/TMCcoverage_SingleAge_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/TMCcoverage_SingleAge_Province.pdf  used on input line 1113.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [68 <./Figures/suppmat/Coverage/MMCcoverage_SingleAge_District.pdf>]
+<Figures/suppmat/Coverage/TMCcoverage_SingleAge_District.pdf, id=1006, 1734.48pt x 1517.67pt>
+File: Figures/suppmat/Coverage/TMCcoverage_SingleAge_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/Coverage/TMCcoverage_SingleAge_District.pdf>
+Package pdftex.def Info: Figures/suppmat/Coverage/TMCcoverage_SingleAge_District.pdf  used on input line 1121.
+(pdftex.def)             Requested size: 443.57848pt x 388.12389pt.
+ [69 <./Figures/suppmat/Coverage/TMCcoverage_SingleAge_Province.pdf>]
+<Figures/suppmat/VMMCs/MCsPerformed_Province.pdf, id=1020, 867.24pt x 650.43pt>
+File: Figures/suppmat/VMMCs/MCsPerformed_Province.pdf Graphic file (type pdf)
+<use Figures/suppmat/VMMCs/MCsPerformed_Province.pdf>
+Package pdftex.def Info: Figures/suppmat/VMMCs/MCsPerformed_Province.pdf  used on input line 1136.
+(pdftex.def)             Requested size: 443.57848pt x 332.68753pt.
+ [70 <./Figures/suppmat/Coverage/TMCcoverage_SingleAge_District.pdf>]
+<Figures/suppmat/VMMCs/MCsPerformed_District.pdf, id=1034, 1806.75pt x 1517.67pt>
+File: Figures/suppmat/VMMCs/MCsPerformed_District.pdf Graphic file (type pdf)
+<use Figures/suppmat/VMMCs/MCsPerformed_District.pdf>
+Package pdftex.def Info: Figures/suppmat/VMMCs/MCsPerformed_District.pdf  used on input line 1144.
+(pdftex.def)             Requested size: 443.57848pt x 372.60818pt.
+ [71 <./Figures/suppmat/VMMCs/MCsPerformed_Province.pdf>] [72 <./Figures/suppmat/VMMCs/MCsPerformed_District.pdf>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1159.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [73] (/Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.aux)
+Package rerunfilecheck Info: File `zaf-circumcision-rates_plos-med-submission-suppmat.out' has not changed.
+(rerunfilecheck)             Checksum: 36E99EA3559E55F11DC67D3FF5D997D0;4787.
+Package logreq Info: Writing requests to 'zaf-circumcision-rates_plos-med-submission-suppmat.run.xml'.
+\openout1 = `zaf-circumcision-rates_plos-med-submission-suppmat.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 32122 strings out of 478994
+ 623621 string characters out of 5858184
+ 1294346 words of memory out of 5000000
+ 48817 multiletter control sequences out of 15000+600000
+ 422906 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,18n,130p,1269b,1274s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} </Users/mlt216/Library/texlive/2021/texmf-var/fonts/pk/ljfour/public/bbm/bbm10.600pk> </Users/mlt216/Library/texlive/2021/texmf-var/fonts/pk/ljfour/public/bbm/bbm7.600pk>{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on /Users/mlt216/Dropbox/Github/zaf-circumcision-rates/Documents/nature-comms/.texpadtmp/zaf-circumcision-rates_plos-med-submission-suppmat.pdf (73 pages, 2941448 bytes).
+PDF statistics:
+ 1212 PDF objects out of 1440 (max. 8388607)
+ 966 compressed objects within 10 object streams
+ 177 named destinations out of 1000 (max. 500000)
+ 581 words of extra memory for PDF output out of 10000 (max. 10000000)
+

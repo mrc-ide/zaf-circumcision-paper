@@ -1,0 +1,2361 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{UNAIDSHighLevel}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c3341ed850516fc6e96774807ffb03c9}{%
+           family={{UNAIDS}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3341ed850516fc6e96774807ffb03c9}
+      \strng{fullhash}{c3341ed850516fc6e96774807ffb03c9}
+      \strng{bibnamehash}{c3341ed850516fc6e96774807ffb03c9}
+      \strng{authorbibnamehash}{c3341ed850516fc6e96774807ffb03c9}
+      \strng{authornamehash}{c3341ed850516fc6e96774807ffb03c9}
+      \strng{authorfullhash}{c3341ed850516fc6e96774807ffb03c9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{High-Level Meeting on AIDS. End Inequalities. End AIDS.}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://hlm2021aids.unaids.org
+      \endverb
+      \verb{url}
+      \verb https://hlm2021aids.unaids.org
+      \endverb
+    \endentry
+    \entry{gray2007male}{article}{}
+      \name{author}{19}{}{%
+        {{hash=3c74ae0eba47f9ba95362f7fe799fa6a}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ff882557f9d4bd780fc41f667479c942}{%
+           family={Kigozi},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0a5f0621fd4b3c164e14c669ef52230e}{%
+           family={Serwadda},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4559f085241810a1d5d58408dda5f856}{%
+           family={Makumbi},
+           familyi={M\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9ca2e4bafa8af3cd6ce7d8cac9f7db6c}{%
+           family={Watya},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3b02d383a5a9b915211e551e66d863b4}{%
+           family={Nalugoda},
+           familyi={N\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2312d364c7d4465160785a07f55da45a}{%
+           family={Kiwanuka},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8f338c119a32db6e569ff2f355e9f287}{%
+           family={Moulton},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b246cf368c64a28a7165bc349a27b2be}{%
+           family={Chaudhary},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e647eb65cd824d8f85c96fb12faef02f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi Z.},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=b70231808bafa69eb8b5f7fcecfee85d}{%
+           family={Sewankambo},
+           familyi={S\bibinitperiod},
+           given={N.\bibnamedelimi K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=0ad1a2eccd97aa434644b405428e9ae7}{%
+           family={Wabwire-Mangen},
+           familyi={W\bibinithyphendelim M\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1c9cb913280a172b715efe61b41309b8}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=55f798fc7b6b4f8b9d7b0415ef773d31}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi F.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6990bce7b6cb541d80adfaf4e3738d17}{%
+           family={Opendi},
+           familyi={O\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6f7e3827a45c7fc375f66400a276cdca}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5e2196045ad1da5c332c0dbc12c78553}{%
+           family={Laeyendecker},
+           familyi={L\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=92f9e07ace37ff99b20517f6204e9538}{%
+           family={Quinn},
+           familyi={Q\bibinitperiod},
+           given={T.\bibnamedelimi C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=06ee38d6335b9eed98caaa1e357af5c6}{%
+           family={Wawer},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{fullhash}{0df58d2c6236183ae7e1e8e8bd0e7779}
+      \strng{bibnamehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{authorbibnamehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{authornamehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{authorfullhash}{0df58d2c6236183ae7e1e8e8bd0e7779}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{number}{9562}
+      \field{title}{Male circumcision for {HIV} prevention in men in {R}akai, {U}ganda: a randomised trial}
+      \field{volume}{369}
+      \field{year}{2007}
+      \field{pages}{657\bibrangedash 666}
+      \range{pages}{10}
+    \endentry
+    \entry{bailey2007male}{article}{}
+      \name{author}{9}{}{%
+        {{hash=47e32e39c532cbca4c53d247c29dc2d6}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1529ca771dfb8369aeff59e26a809176}{%
+           family={Moses},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=82253db658c0c2e9c5266a56d112f647}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={C.\bibnamedelimi B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=f1adc890b9484154d2bd60376fd644ac}{%
+           family={Agot},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=87929bcdfffb1c0219dda1aa4770716b}{%
+           family={Maclean},
+           familyi={M\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5e5d4c933d3f4e56ff5c106bfdfb46c9}{%
+           family={Krieger},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=55f798fc7b6b4f8b9d7b0415ef773d31}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi F.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=789f3304979730a459b9db123bff53df}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=2f78a1b778fa0421b336955655f1d449}{%
+           family={Ndinya-Achola},
+           familyi={N\bibinithyphendelim A\bibinitperiod},
+           given={J.\bibnamedelimi O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5f55ba37c38767b73c43d91c435e23b7}
+      \strng{fullhash}{f373fe9a71e2c98eb59747edcbfbf06a}
+      \strng{bibnamehash}{5f55ba37c38767b73c43d91c435e23b7}
+      \strng{authorbibnamehash}{5f55ba37c38767b73c43d91c435e23b7}
+      \strng{authornamehash}{5f55ba37c38767b73c43d91c435e23b7}
+      \strng{authorfullhash}{f373fe9a71e2c98eb59747edcbfbf06a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{number}{9562}
+      \field{title}{Male circumcision for {HIV} prevention in young men in {K}isumu, {K}enya: a randomised controlled trial}
+      \field{volume}{369}
+      \field{year}{2007}
+      \field{pages}{643\bibrangedash 656}
+      \range{pages}{14}
+    \endentry
+    \entry{auvert2005randomized}{article}{}
+      \name{author}{6}{}{%
+        {{hash=548e82b93108d9baa3e547e61a2ad916}{%
+           family={Auvert},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=131d849cb3f11fe713a97f1fdb8e26f8}{%
+           family={Taljaard},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4c0b67aa15c1702669f1261e3b5fec85}{%
+           family={Lagarde},
+           familyi={L\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=03c2c9888ef6b4871cdf577d5e0c955b}{%
+           family={Sobngwi-Tambekou},
+           familyi={S\bibinithyphendelim T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ba37fdc75b013fc1cb02f4f9aaa0f167}{%
+           family={Sitta},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=535e61b80d782ed82e74a2f2ee212bd4}{%
+           family={Puren},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{ce6e64819b9147ed1a4bf0184bbb87e1}
+      \strng{fullhash}{36bf524d5a0cabf97dd4c2c57aa36758}
+      \strng{bibnamehash}{ce6e64819b9147ed1a4bf0184bbb87e1}
+      \strng{authorbibnamehash}{ce6e64819b9147ed1a4bf0184bbb87e1}
+      \strng{authornamehash}{ce6e64819b9147ed1a4bf0184bbb87e1}
+      \strng{authorfullhash}{36bf524d5a0cabf97dd4c2c57aa36758}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Medicine}
+      \field{number}{11}
+      \field{title}{Randomized, controlled intervention trial of male circumcision for reduction of {HIV} infection risk: the {ANRS} 1265 {T}rial}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{e298}
+      \range{pages}{-1}
+    \endentry
+    \entry{gray2012effectiveness}{article}{}
+      \name{author}{10}{}{%
+        {{hash=3c74ae0eba47f9ba95362f7fe799fa6a}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ff882557f9d4bd780fc41f667479c942}{%
+           family={Kigozi},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=21173e389590fc5148b020834157777f}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c20fb45e451a6a9251e0f00510d31bba}{%
+           family={Ssempiija},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4559f085241810a1d5d58408dda5f856}{%
+           family={Makumbi},
+           familyi={M\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e4f54616fb487ccba81fb667b7a39505}{%
+           family={Wattya},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0a5f0621fd4b3c164e14c669ef52230e}{%
+           family={Serwadda},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3b02d383a5a9b915211e551e66d863b4}{%
+           family={Nalugoda},
+           familyi={N\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b1980d07f8d5af818eb596dcca70579e}{%
+           family={Sewenkambo},
+           familyi={S\bibinitperiod},
+           given={N.\bibnamedelimi K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=06ee38d6335b9eed98caaa1e357af5c6}{%
+           family={Wawer},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NIH Public Access}%
+      }
+      \strng{namehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{fullhash}{2958f55a5907dd0e4c5e4e1fd71ef455}
+      \strng{bibnamehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{authorbibnamehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{authornamehash}{bfbd74a78d857b65c6259c8b7917eeda}
+      \strng{authorfullhash}{2958f55a5907dd0e4c5e4e1fd71ef455}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIDS London England}
+      \field{number}{5}
+      \field{title}{The effectiveness of male circumcision for HIV prevention and effects on risk behaviors in a post-trial follow up study in Rakai, Uganda}
+      \field{volume}{26}
+      \field{year}{2012}
+      \field{pages}{609}
+      \range{pages}{1}
+    \endentry
+    \entry{grund2017association}{article}{}
+      \name{author}{14}{}{%
+        {{hash=7eb1d5573b953aaf5b28ce7322e662d7}{%
+           family={Grund},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8d83d7e158114c2ac1943eebd14068eb}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={T.\bibnamedelimi S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=af3fbb549fd2442b820d1c74ad88d817}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=dea093a49da651d23e730098ebe059a2}{%
+           family={Curran},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3b231dc39104fc05a57a43545b4aec83}{%
+           family={Bock},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=fc3f547bc29353f8ee504beab52e4378}{%
+           family={Toledo},
+           familyi={T\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=27c475a18e8fd7c810b6a6689def495d}{%
+           family={Taliano},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1af27b3e635e110c5c1f29c146a74e8d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e1eb74ce3fde7a0076d49e863f8d7df6}{%
+           family={Campo},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=527f0ca92e7ed462c77915036481c907}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1636afc0f4447c488b156229a871f4e0}{%
+           family={Kivumbi},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a494467233dc99d0be6a30678b7aca5a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7b448bfff39ed0f38399901df42bfd1d}{%
+           family={Pals},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=05c9a2a1d5f6f7bfa6569ca0bc3548d1}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aa21cc5300a653e34b22d3d65b91dec6}
+      \strng{fullhash}{225fd217a46df9cb814bfe17cda750c3}
+      \strng{bibnamehash}{aa21cc5300a653e34b22d3d65b91dec6}
+      \strng{authorbibnamehash}{aa21cc5300a653e34b22d3d65b91dec6}
+      \strng{authornamehash}{aa21cc5300a653e34b22d3d65b91dec6}
+      \strng{authorfullhash}{225fd217a46df9cb814bfe17cda750c3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet Global Health}
+      \field{number}{11}
+      \field{title}{{A}ssociation between male circumcision and women's biomedical health outcomes: a systematic review}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{e1113\bibrangedash e1122}
+      \range{pages}{-1}
+    \endentry
+    \entry{pintye2019benefits}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7e5930990f7170671d9110bff791a719}{%
+           family={Pintye},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=424f08d659ed7eb08c8a0dc0875f5133}{%
+           family={Baeten},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6148b2248b53273cd9894c307df67682}
+      \strng{fullhash}{6148b2248b53273cd9894c307df67682}
+      \strng{bibnamehash}{6148b2248b53273cd9894c307df67682}
+      \strng{authorbibnamehash}{6148b2248b53273cd9894c307df67682}
+      \strng{authornamehash}{6148b2248b53273cd9894c307df67682}
+      \strng{authorfullhash}{6148b2248b53273cd9894c307df67682}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet Global Health}
+      \field{number}{4}
+      \field{title}{Benefits of male circumcision for {MSM}: evidence for action}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{e388\bibrangedash e389}
+      \range{pages}{-1}
+    \endentry
+    \entry{tobian2009male}{article}{}
+      \name{author}{16}{}{%
+        {{hash=844197f9cba8d830107c9b66107e94e9}{%
+           family={Tobian},
+           familyi={T\bibinitperiod},
+           given={A.\bibnamedelimi A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0a5f0621fd4b3c164e14c669ef52230e}{%
+           family={Serwadda},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=92f9e07ace37ff99b20517f6204e9538}{%
+           family={Quinn},
+           familyi={Q\bibinitperiod},
+           given={T.\bibnamedelimi C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ff882557f9d4bd780fc41f667479c942}{%
+           family={Kigozi},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0ebe1e389eefd142404036e83ffa36d0}{%
+           family={Gravitt},
+           familyi={G\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5e2196045ad1da5c332c0dbc12c78553}{%
+           family={Laeyendecker},
+           familyi={L\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f58de26921a124e5c2a1df782966c7f7}{%
+           family={Charvat},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=191a5f2ba6d2dc11bcba377de07d4b8b}{%
+           family={Ssempijja},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0a075fb89f51b6ae236d182de2108428}{%
+           family={Riedesel},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ad0f95e3d76308f5b2ee0efd71c8d46d}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4f59eeec87cd7992f6f54a827d773247}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={R.\bibnamedelimi G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8f338c119a32db6e569ff2f355e9f287}{%
+           family={Moulton},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e647eb65cd824d8f85c96fb12faef02f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi Z.},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=6f7e3827a45c7fc375f66400a276cdca}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=06ee38d6335b9eed98caaa1e357af5c6}{%
+           family={Wawer},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3c74ae0eba47f9ba95362f7fe799fa6a}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mass Medical Soc}%
+      }
+      \strng{namehash}{30e1e0734794ca78273239667e979dc8}
+      \strng{fullhash}{1c93b3daee2f382b89354abaaa3a614b}
+      \strng{bibnamehash}{30e1e0734794ca78273239667e979dc8}
+      \strng{authorbibnamehash}{30e1e0734794ca78273239667e979dc8}
+      \strng{authornamehash}{30e1e0734794ca78273239667e979dc8}
+      \strng{authorfullhash}{1c93b3daee2f382b89354abaaa3a614b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{number}{13}
+      \field{title}{{M}ale circumcision for the prevention of {HSV}-2 and {HPV} infections and syphilis}
+      \field{volume}{360}
+      \field{year}{2009}
+      \field{pages}{1298\bibrangedash 1309}
+      \range{pages}{12}
+    \endentry
+    \entry{UNAIDSJoint}{report}{}
+      \name{author}{1}{}{%
+        {{hash=9ed1e9f759b27c20c0ee8a56113c84e3}{%
+           family={WHO},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \strng{fullhash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \strng{bibnamehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \strng{authorbibnamehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \strng{authornamehash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \strng{authorfullhash}{9ed1e9f759b27c20c0ee8a56113c84e3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{J}oint strategic action framework to accelerate the scale-up of voluntary medical male circumcision for {HIV} prevention in eastern and southern {A}frica, 2012-2016}
+      \field{type}{techreport}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.hst.org.za/publications/NonHST%20Publications/JC2251_Action_Framework_circumcision_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.hst.org.za/publications/NonHST%20Publications/JC2251_Action_Framework_circumcision_en.pdf
+      \endverb
+    \endentry
+    \entry{davis2018progress}{article}{}
+      \name{author}{14}{}{%
+        {{hash=05c9a2a1d5f6f7bfa6569ca0bc3548d1}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=21f3ce4a0561f2e6c20227c03bdf6c22}{%
+           family={Hines},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi Z.},
+           giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=314442ba2ac0207b99f4959dac4736b5}{%
+           family={Habel},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7eb1d5573b953aaf5b28ce7322e662d7}{%
+           family={Grund},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=32cceedf9b2f086f10a099331656aca1}{%
+           family={Ridzon},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=786701359c97109c961ba11639facbda}{%
+           family={Baack},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e26e8f51689f1ac46e32e21d5587a053}{%
+           family={Davitte},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2b67cdf4ddf284c15d4420689a6abe19}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=08b272550ccb0a01edeb8db734da7e4a}{%
+           family={Kiggundu},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3b231dc39104fc05a57a43545b4aec83}{%
+           family={Bock},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=594d41014f49d5c2f42b94a661def297}{%
+           family={Pordell},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8f219fd01230ebbf2aceb2c822e8c955}{%
+           family={Cooney},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3ef0852bdad32ddafa432bb171452d1a}{%
+           family={Zaidi},
+           familyi={Z\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=fc3f547bc29353f8ee504beab52e4378}{%
+           family={Toledo},
+           familyi={T\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {British Medical Journal Publishing Group}%
+      }
+      \strng{namehash}{71f077dd24d767dc495025fd24016079}
+      \strng{fullhash}{65e8e814607c7356a07ddff2d710d5ab}
+      \strng{bibnamehash}{71f077dd24d767dc495025fd24016079}
+      \strng{authorbibnamehash}{71f077dd24d767dc495025fd24016079}
+      \strng{authornamehash}{71f077dd24d767dc495025fd24016079}
+      \strng{authorfullhash}{65e8e814607c7356a07ddff2d710d5ab}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ Open}
+      \field{number}{8}
+      \field{title}{Progress in voluntary medical male circumcision for {HIV} prevention supported by the {US} {P}resident's {E}mergency {P}lan for {AIDS} {R}elief through 2017: longitudinal and recent cross-sectional programme data}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{e021835}
+      \range{pages}{-1}
+    \endentry
+    \entry{WHOVoluntary2}{report}{}
+      \name{author}{1}{}{%
+        {{hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{V}oluntary medical male circumcision: {R}emarkable progress in the scale up of {VMMC} as an {HIV} prevention intervention in 15 {ESA} countries}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.who.int/publications/i/item/voluntary-medical-male-circumcision-progress-brief-2019
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/publications/i/item/voluntary-medical-male-circumcision-progress-brief-2019
+      \endverb
+    \endentry
+    \entry{WHOFramework}{report}{}
+      \name{author}{1}{}{%
+        {{hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A framework for voluntary medical male circumcision: {E}ffective {HIV} prevention and a gateway to improved adolescent boys' and men's health in {E}astern and {S}outhern {A}frica by 2021}
+      \field{type}{techreport}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://apps.who.int/iris/bitstream/handle/10665/246234/WHO-HIV-2016.17-eng.pdf
+      \endverb
+      \verb{url}
+      \verb https://apps.who.int/iris/bitstream/handle/10665/246234/WHO-HIV-2016.17-eng.pdf
+      \endverb
+    \endentry
+    \entry{sanac}{report}{}
+      \name{author}{1}{}{%
+        {{hash=11670461236f29c157a69a99e2e911c2}{%
+           family={{The South African AIDS Council}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{11670461236f29c157a69a99e2e911c2}
+      \strng{fullhash}{11670461236f29c157a69a99e2e911c2}
+      \strng{bibnamehash}{11670461236f29c157a69a99e2e911c2}
+      \strng{authorbibnamehash}{11670461236f29c157a69a99e2e911c2}
+      \strng{authornamehash}{11670461236f29c157a69a99e2e911c2}
+      \strng{authorfullhash}{11670461236f29c157a69a99e2e911c2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{S}outh {A}frica's {N}ational {S}trategic {P}lan for {HIV}, {TB} and {STI}s 2017-2022}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://sanac.org.za//wp-content/uploads/2017/06/NSP_FullDocument_FINAL.pdf
+      \endverb
+      \verb{url}
+      \verb https://sanac.org.za//wp-content/uploads/2017/06/NSP_FullDocument_FINAL.pdf
+      \endverb
+    \endentry
+    \entry{peltzer2014prevalence}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1dc413191caf2961b6352df2fe492a29}{%
+           family={Peltzer},
+           familyi={P\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=26e9599ddf676b866edb3fece4a413b4}{%
+           family={Onoya},
+           familyi={O\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e45e0984b1c4507ee5fa222aa2b2411d}{%
+           family={Makonko},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=02651ef696b961eae83a8091d6027596}{%
+           family={L.},
+           familyi={L\bibinitperiod},
+           given={Simbayia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f45e8ab3bb13db849bd5f29cb8c0a62f}
+      \strng{fullhash}{9997d01cc5290d5a8995ea69d66030bd}
+      \strng{bibnamehash}{9997d01cc5290d5a8995ea69d66030bd}
+      \strng{authorbibnamehash}{9997d01cc5290d5a8995ea69d66030bd}
+      \strng{authornamehash}{f45e8ab3bb13db849bd5f29cb8c0a62f}
+      \strng{authorfullhash}{9997d01cc5290d5a8995ea69d66030bd}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Afr J Tradit Complement Altern Med.}
+      \field{number}{4}
+      \field{title}{{P}revalence and {A}cceptability of {M}ale {C}ircumcision in {S}outh {A}frica}
+      \field{volume}{11}
+      \field{year}{2014}
+      \field{pages}{216\bibrangedash 130}
+      \range{pages}{-79}
+    \endentry
+    \entry{connolly2008male}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6b9da2878e17e7f2f8b52c414a866147}{%
+           family={Connolly},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=15c795ee21474525a902c963b3410590}{%
+           family={Simbayi},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c6c877df44af4ee3fb4b836c4b81b55c}{%
+           family={Shanmugam},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d94d2b8173414f09a3ab4e590693dbf1}{%
+           family={A.},
+           familyi={A\bibinitperiod},
+           given={Nqeketo},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5633d9b704050af37fe7d7b47c8668a}
+      \strng{fullhash}{ecb5c6ea0d1659810063a98a9ac48b2a}
+      \strng{bibnamehash}{ecb5c6ea0d1659810063a98a9ac48b2a}
+      \strng{authorbibnamehash}{ecb5c6ea0d1659810063a98a9ac48b2a}
+      \strng{authornamehash}{b5633d9b704050af37fe7d7b47c8668a}
+      \strng{authorfullhash}{ecb5c6ea0d1659810063a98a9ac48b2a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{S Afr Med J}
+      \field{title}{{M}ale circumcision and its relationship to {HIV} infection in {S}outh {A}frica: {R}esults of a national survey in 2002}
+      \field{volume}{98}
+      \field{year}{2008}
+      \field{pages}{789\bibrangedash 794}
+      \range{pages}{6}
+    \endentry
+    \entry{drain2006male}{article}{}
+      \name{author}{5}{}{%
+        {{hash=23507786fd80c1ba64a5f75e40fe6ef8}{%
+           family={Drain},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=047f23802438d98561cdc224024ab574}{%
+           family={Halperin},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=829ceb3c12a7b1e30dc7095db742cdac}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=127f4ad32e9c2255465bbf4723ad2870}{%
+           family={Klausner},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=47e32e39c532cbca4c53d247c29dc2d6}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{17669c7bd30ade1dcf570511379f1a86}
+      \strng{fullhash}{b26da3c55381d998e11b09808bf9100c}
+      \strng{bibnamehash}{b26da3c55381d998e11b09808bf9100c}
+      \strng{authorbibnamehash}{b26da3c55381d998e11b09808bf9100c}
+      \strng{authornamehash}{17669c7bd30ade1dcf570511379f1a86}
+      \strng{authorfullhash}{b26da3c55381d998e11b09808bf9100c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC infectious diseases}
+      \field{number}{1}
+      \field{title}{Male circumcision, religion, and infectious diseases: an ecologic analysis of 118 developing countries}
+      \field{volume}{6}
+      \field{year}{2006}
+      \field{pages}{172}
+      \range{pages}{1}
+    \endentry
+    \entry{wilcken2010traditional}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9d44221e9cdcbeeb33cf2e46d25c1f1a}{%
+           family={Wilcken},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0cc45b22262253fb1cd36572011c4448}{%
+           family={Keil},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3f96d2a726255ef9702e38dcd90b7171}{%
+           family={Dick},
+           familyi={D\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciELO Public Health}%
+      }
+      \strng{namehash}{82d74357b66c9e0c72d56b68aceb99b2}
+      \strng{fullhash}{aa57e30c15a68311e3aa147f6d0c4e39}
+      \strng{bibnamehash}{aa57e30c15a68311e3aa147f6d0c4e39}
+      \strng{authorbibnamehash}{aa57e30c15a68311e3aa147f6d0c4e39}
+      \strng{authornamehash}{82d74357b66c9e0c72d56b68aceb99b2}
+      \strng{authorfullhash}{aa57e30c15a68311e3aa147f6d0c4e39}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of the World Health Organization}
+      \field{title}{{T}raditional male circumcision in eastern and southern {A}frica: a systematic review of prevalence and complications}
+      \field{volume}{88}
+      \field{year}{2010}
+      \field{pages}{907\bibrangedash 914}
+      \range{pages}{8}
+    \endentry
+    \entry{weiss2000male}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a785db03d94a32a6116083ba1e83eae4}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c16efb795a7af65fcc0b8d659922bb00}{%
+           family={Quigley},
+           familyi={Q\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=aac3dcf76afe360f6c4316c419f23980}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{fb088bf75eacf201d155f69880d7d141}
+      \strng{fullhash}{796586c36b3904dd66a816e99a13e3bf}
+      \strng{bibnamehash}{796586c36b3904dd66a816e99a13e3bf}
+      \strng{authorbibnamehash}{796586c36b3904dd66a816e99a13e3bf}
+      \strng{authornamehash}{fb088bf75eacf201d155f69880d7d141}
+      \strng{authorfullhash}{796586c36b3904dd66a816e99a13e3bf}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIDS}
+      \field{number}{15}
+      \field{title}{Male circumcision and risk of {HIV} infection in sub-{S}aharan {A}frica: a systematic review and meta-analysis}
+      \field{volume}{14}
+      \field{year}{2000}
+      \field{pages}{2361\bibrangedash 2370}
+      \range{pages}{10}
+    \endentry
+    \entry{WHOTraditional}{report}{}
+      \name{author}{1}{}{%
+        {{hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{T}raditional male circumcision among young people.}
+      \field{type}{techreport}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://apps.who.int/iris/bitstream/handle/10665/44247/9789241598910_eng.pdf
+      \endverb
+      \verb{url}
+      \verb https://apps.who.int/iris/bitstream/handle/10665/44247/9789241598910_eng.pdf
+      \endverb
+    \endentry
+    \entry{shaffer2007protective}{article}{}
+      \name{author}{11}{}{%
+        {{hash=898a7846dc58974822e0eed763f0b3a2}{%
+           family={Shaffer},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi N.},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=dfa40b49e0abc2d2253a27bef7e3ea3a}{%
+           family={Bautista},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=5e9110fefeb2a0e8981358d4336a4141}{%
+           family={Sateren},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi B.},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b6064f2664196e1778e9116e263fa8ea}{%
+           family={Sawe},
+           familyi={S\bibinitperiod},
+           given={F.\bibnamedelimi K.},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a70b98914adbd68469a39bf74249560e}{%
+           family={Kiplangat},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=15d7d2489ad6f488d5a39da5c8e9a694}{%
+           family={Miruka},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=37f3b7e57b42a56751d06657bd6c116c}{%
+           family={Renzullo},
+           familyi={R\bibinitperiod},
+           given={P.\bibnamedelimi O.},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=c16208068c8ba046fd0977d55a1031e3}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi T.},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b4fa9779ca4011ba74ce6188bf938575}{%
+           family={Robb},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6ea9df242bcf21d3b0028568fe4fb9b2}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={N.\bibnamedelimi L.},
+           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f395a52fac143b8a446fdc72e1cbd48e}{%
+           family={Birx},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{6f907682a5cd85008ea09aec17bbdafc}
+      \strng{fullhash}{6aaec0e5bc4691b19e4d0b597a1b12f0}
+      \strng{bibnamehash}{6f907682a5cd85008ea09aec17bbdafc}
+      \strng{authorbibnamehash}{6f907682a5cd85008ea09aec17bbdafc}
+      \strng{authornamehash}{6f907682a5cd85008ea09aec17bbdafc}
+      \strng{authorfullhash}{6aaec0e5bc4691b19e4d0b597a1b12f0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Acquired Immune Deficiency Syndromes}
+      \field{number}{4}
+      \field{title}{{T}he {P}rotective {E}ffect of {C}ircumcision on {HIV} {I}ncidence in {R}ural {L}ow-{R}isk {M}en {C}ircumcised {P}redominantly by {T}raditional {C}ircumcisers in {K}enya: {T}wo-Year {F}ollow-{U}p of the {K}ericho {HIV} {C}ohort {S}tudy}
+      \field{volume}{45}
+      \field{year}{2007}
+      \field{pages}{371\bibrangedash 379}
+      \range{pages}{9}
+    \endentry
+    \entry{bailey2008male}{article}{}
+      \name{author}{3}{}{%
+        {{hash=47e32e39c532cbca4c53d247c29dc2d6}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b8c327a063bd3f3113caa0906bea14e7}{%
+           family={Egesah},
+           familyi={E\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f4d55f039ef64b4d4c838602289895ef}{%
+           family={Rosenberg},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciELO Public Health}%
+      }
+      \strng{namehash}{5f55ba37c38767b73c43d91c435e23b7}
+      \strng{fullhash}{5c21c2c595a96752b8c65ccbdba2e490}
+      \strng{bibnamehash}{5c21c2c595a96752b8c65ccbdba2e490}
+      \strng{authorbibnamehash}{5c21c2c595a96752b8c65ccbdba2e490}
+      \strng{authornamehash}{5f55ba37c38767b73c43d91c435e23b7}
+      \strng{authorfullhash}{5c21c2c595a96752b8c65ccbdba2e490}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of the World Health Organization}
+      \field{title}{{M}ale circumcision for {HIV} prevention: a prospective study of complications in clinical and traditional settings in {B}ungoma, {K}enya}
+      \field{volume}{86}
+      \field{year}{2008}
+      \field{pages}{669\bibrangedash 677}
+      \range{pages}{9}
+    \endentry
+    \entry{cork2020mapping}{article}{}
+      \name{author}{26}{}{%
+        {{hash=6ed24596872f8c0656cfc57961d6bd4a}{%
+           family={Cork},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e2c8e6981075983d3e80e40ed2514f54}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi F.},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d251f91ef7e4cf0881b75ebd5f709bf9}{%
+           family={Perkins},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f05cf9ad862749cbf46a064f575a58f8}{%
+           family={Collison},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=33bf8f7fc9e9a81b26cf9ac97dacd855}{%
+           family={Deshpande},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1735f7935ec3925f2deadd58a106ccd5}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=103f7288a22c85d0b387cec1439d8f8b}{%
+           family={Earl},
+           familyi={E\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ea52ec84e26e6536e9619efd30af2fba}{%
+           family={Haeuser},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cb314c2db217ae88fb2df9aac703378a}{%
+           family={Justman},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4f4e5e9943069e9e2a246cb9c2e4dd4d}{%
+           family={Kinyoki},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=2d863d77d4e5ef4a9af308bb8feb43b4}{%
+           family={Mayala},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=847b79436c323b64f985d15a381ff82f}{%
+           family={Mosser},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=cb31ba97001d90c2f5e827716c66df0c}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi J.\bibnamedelimi L.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5c52fe675eab4cd3bbebf5f18a6b8569}{%
+           family={Nkengasong},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=5fcf9241c7cddb4b7a57c4598888b68f}{%
+           family={Piot},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9b4d404425aada0cfcfd1cc559bee05f}{%
+           family={Sartorius},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ac921a6e9fa786b05feb8c8543c9699d}{%
+           family={Schaeffer},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cca29ac21380da504e187f1fc8846abc}{%
+           family={Serfes},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=666b3ba725851e3e81ba10e77f0c953f}{%
+           family={Sligar},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b14e1ebfd061ab5af03922292b5f6bc7}{%
+           family={Steuben},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f29fc91066ceed1c53ca00b6b3f7702c}{%
+           family={Tanser},
+           familyi={T\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a40e7a5ecc263ea17745daed08f442eb}{%
+           family={VanderHeide},
+           familyi={V\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7148de383baa80de3a6b13dd22492adc}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f08187048adc5cc1cca57b48cf4192ca}{%
+           family={Wabiri},
+           familyi={W\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3dd0c02ef4c3dc001edff94b485c8179}{%
+           family={Hay},
+           familyi={H\bibinitperiod},
+           given={S.\bibnamedelimi I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=2bf593437206692954a00294bdf1b348}{%
+           family={Dwyer-Lindgren},
+           familyi={D\bibinithyphendelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1120ee2079fae754cfb01961364d73d8}
+      \strng{fullhash}{aef745e60303f28b7a270fa7a9041751}
+      \strng{bibnamehash}{1120ee2079fae754cfb01961364d73d8}
+      \strng{authorbibnamehash}{1120ee2079fae754cfb01961364d73d8}
+      \strng{authornamehash}{1120ee2079fae754cfb01961364d73d8}
+      \strng{authorfullhash}{aef745e60303f28b7a270fa7a9041751}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC medicine}
+      \field{number}{1}
+      \field{title}{{M}apping male circumcision for {HIV} prevention efforts in sub-{S}aharan {A}frica}
+      \field{volume}{18}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{kripke2016age}{article}{}
+      \name{author}{8}{}{%
+        {{hash=05f2a490b8902fab5f27eff9d511a167}{%
+           family={Kripke},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f6a7db88fbdf99cb110187585819f0e0}{%
+           family={Opuni},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=322205524a2e53e6a8a594cd380e3dab}{%
+           family={Schnure},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a9a62dcb7b1e257ee44304ca178123c6}{%
+           family={Sgaier},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bce461610ee4c239abe8a7ab994de56e}{%
+           family={Castor},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5e7046c01eb604e10ef960ba3e5ea6b0}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d690757672c495ac1aed70dd0076724}{%
+           family={Njeuhmeli},
+           familyi={N\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=76daf7ad6078e196686c0c59a80073a9}{%
+           family={Stover},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{fullhash}{0f7939ea1636fb3c66af8aef8decb7c2}
+      \strng{bibnamehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{authorbibnamehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{authornamehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{authorfullhash}{0f7939ea1636fb3c66af8aef8decb7c2}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{7}
+      \field{title}{{A}ge {T}argeting of {V}oluntary {M}edical {M}ale {C}ircumcision {P}rograms {U}sing the {D}ecision {M}akers' {P}rogram {P}lanning {T}oolkit ({DMPPT}) 2.0}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{pages}{e0156909}
+      \range{pages}{-1}
+    \endentry
+    \entry{kripke2016cost}{article}{}
+      \name{author}{11}{}{%
+        {{hash=05f2a490b8902fab5f27eff9d511a167}{%
+           family={Kripke},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e5a327808e9a5ffabeb2818bba688fc0}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={P.-A.},
+           giveni={P\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=2ed4539c5de265e531da617edf680607}{%
+           family={Vazzano},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3d0f47ee62f22b3595e1768a42c193e6}{%
+           family={Thambinayagam},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=592cf590b26d2a9d6cf077d46a8b6116}{%
+           family={Pillay},
+           familyi={P\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=274a66b2ef6615321eac162bf82a4da9}{%
+           family={Loykissoonlal},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bc10fa5673b9a1d8ac34cddcd4ae6787}{%
+           family={Bonnecwe},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3a5dba31f5335aea0d03b661788e5dbf}{%
+           family={Barron},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e96b2f0f9b5154c91715fe66e8003380}{%
+           family={Kiwango},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=bce461610ee4c239abe8a7ab994de56e}{%
+           family={Castor},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8d690757672c495ac1aed70dd0076724}{%
+           family={Njeuhmeli},
+           familyi={N\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{fullhash}{88c7ec79073290bdc6e5816f41e29e97}
+      \strng{bibnamehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{authorbibnamehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{authornamehash}{829d9c7442b76241a6703a19743f68ac}
+      \strng{authorfullhash}{88c7ec79073290bdc6e5816f41e29e97}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS One}
+      \field{number}{7}
+      \field{title}{{C}ost and {I}mpact of {V}oluntary {M}edical {M}ale {C}ircumcision in {S}outh {A}frica: {F}ocusing the {P}rogram on {S}pecific {A}ge {G}roups and {P}rovinces}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{pages}{e0157071}
+      \range{pages}{-1}
+    \endentry
+    \entry{hivdata}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=055558101c35c88fc04e80e2f565d427}{%
+           family={{Eaton J. W., Johnson L. F., Meyer-Rath G.}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{055558101c35c88fc04e80e2f565d427}
+      \strng{fullhash}{055558101c35c88fc04e80e2f565d427}
+      \strng{bibnamehash}{055558101c35c88fc04e80e2f565d427}
+      \strng{authorbibnamehash}{055558101c35c88fc04e80e2f565d427}
+      \strng{authornamehash}{055558101c35c88fc04e80e2f565d427}
+      \strng{authorfullhash}{055558101c35c88fc04e80e2f565d427}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{S}outh {A}frica {D}istrict {HIV} {E}stimates}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.hivdata.org.za
+      \endverb
+      \verb{url}
+      \verb https://www.hivdata.org.za
+      \endverb
+    \endentry
+    \entry{world2020preventing}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8179b1fdebe9235e54501d2878c47e1b}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Health Organization}%
+      }
+      \strng{namehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{fullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{bibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorbibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authornamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorfullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789240008540}
+      \field{title}{Preventing HIV through safe voluntary medical male circumcision for adolescent boys and men in generalized HIV epidemics: recommendations and key considerations}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://apps.who.int/iris/handle/10665/333841
+      \endverb
+      \verb{url}
+      \verb https://apps.who.int/iris/handle/10665/333841
+      \endverb
+    \endentry
+    \entry{peck2022effects}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=be27def591f2c0960e52e293e3f05bc0}{%
+           family={Peck},
+           familyi={P\bibinitperiod},
+           given={Megan\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=8784ee7e61f635e38a7e12a4e82b09ec}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Katherine\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d417816f70a6a879f8e5dfbf181e176f}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod}}}%
+        {{hash=989155436f4675babd33b575430f9c8e}{%
+           family={Prainito},
+           familyi={P\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7111f3b3f22ac68be82eb93fa778907f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Anne\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=56a82ff05fa0589b780c8c06cf7d40e9}{%
+           family={Brun},
+           familyi={B\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d722aa7a3ed7acfc69ad97185a4146ec}{%
+           family={Kiggundu},
+           familyi={K\bibinitperiod},
+           given={Valerian},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ad2e095586b4486f86df3bbeecdf27b0}{%
+           family={Yansaneh},
+           familyi={Y\bibinitperiod},
+           given={Aisha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a85bff8aab181c3d632d8d0d9bba4c8}{%
+           family={Busang},
+           familyi={B\bibinitperiod},
+           given={Lesego},
+           giveni={L\bibinitperiod}}}%
+        {{hash=18b0df7589f5615c2fe2a35623d87337}{%
+           family={Kgongwana},
+           familyi={K\bibinitperiod},
+           given={Kabelo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Centers for Disease Control}%
+        {Prevention}%
+      }
+      \strng{namehash}{c039aedcbc098e7704f4a45a0fd39b53}
+      \strng{fullhash}{e3e9c669c9468338d1b83b248a3ae04a}
+      \strng{bibnamehash}{c039aedcbc098e7704f4a45a0fd39b53}
+      \strng{authorbibnamehash}{c039aedcbc098e7704f4a45a0fd39b53}
+      \strng{authornamehash}{c039aedcbc098e7704f4a45a0fd39b53}
+      \strng{authorfullhash}{e3e9c669c9468338d1b83b248a3ae04a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Emerging Infectious Diseases}
+      \field{number}{Suppl 1}
+      \field{title}{Effects of COVID-19 pandemic on voluntary medical male circumcision services for HIV prevention, sub-Saharan Africa, 2020}
+      \field{volume}{28}
+      \field{year}{2022}
+      \field{pages}{S262\bibrangedash S269}
+      \range{pages}{-1}
+    \endentry
+    \entry{ewn2020circumcisionschools}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=050af983f0c289df5891c33bb251a20f}{%
+           family={News},
+           familyi={N\bibinitperiod},
+           given={Eye\bibnamedelima Witness},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{050af983f0c289df5891c33bb251a20f}
+      \strng{fullhash}{050af983f0c289df5891c33bb251a20f}
+      \strng{bibnamehash}{050af983f0c289df5891c33bb251a20f}
+      \strng{authorbibnamehash}{050af983f0c289df5891c33bb251a20f}
+      \strng{authornamehash}{050af983f0c289df5891c33bb251a20f}
+      \strng{authorfullhash}{050af983f0c289df5891c33bb251a20f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manhood Must Wait: COVID-19 Delays South African Circumcision Rituals}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ewn.co.za/2020/08/14/manhood-must-wait-covid-19-delays-south-african-circumcision-rituals
+      \endverb
+      \verb{url}
+      \verb https://ewn.co.za/2020/08/14/manhood-must-wait-covid-19-delays-south-african-circumcision-rituals
+      \endverb
+    \endentry
+    \entry{lagarde2003acceptability}{article}{}
+      \name{author}{5}{}{%
+        {{hash=4c0b67aa15c1702669f1261e3b5fec85}{%
+           family={Lagarde},
+           familyi={L\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=08c08c1b944dbe99ced23703b59ceb87}{%
+           family={Dirk},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=535e61b80d782ed82e74a2f2ee212bd4}{%
+           family={Puren},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e7868e3b22a4329fb3f6513ee343acb1}{%
+           family={Reathe},
+           familyi={R\bibinitperiod},
+           given={R.-T.},
+           giveni={R\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=27bc2312996dd77f41be6ccabb0b014b}{%
+           family={Bertran},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{f4651fe1fba1fce3888f3a7584e522a0}
+      \strng{fullhash}{bdd81d1a9a6f66570713ec1cee3c5d54}
+      \strng{bibnamehash}{bdd81d1a9a6f66570713ec1cee3c5d54}
+      \strng{authorbibnamehash}{bdd81d1a9a6f66570713ec1cee3c5d54}
+      \strng{authornamehash}{f4651fe1fba1fce3888f3a7584e522a0}
+      \strng{authorfullhash}{bdd81d1a9a6f66570713ec1cee3c5d54}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIDS}
+      \field{number}{1}
+      \field{title}{Acceptability of male circumcision as a tool for preventing HIV infection in a highly infected community in South Africa}
+      \field{volume}{17}
+      \field{year}{2003}
+      \field{pages}{89\bibrangedash 95}
+      \range{pages}{7}
+    \endentry
+    \entry{lissouba2011adult}{article}{}
+      \name{author}{9}{}{%
+        {{hash=380e2ca192aca08ae1286cccfb27ebeb}{%
+           family={Lissouba},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=131d849cb3f11fe713a97f1fdb8e26f8}{%
+           family={Taljaard},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cec3ccec8c6e214e01d96c2ecd5caeef}{%
+           family={Rech},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5c7dc6ebe76279e6d492ed0724a6b5a9}{%
+           family={Dermaux-Msimang},
+           familyi={D\bibinithyphendelim M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5a5f4720da8e0c574d8ca204299fac3e}{%
+           family={Legeai},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=74dfec5428cf9547781fc615ccb22c38}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c82c56d81c127d3b399ad89518718176}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=535e61b80d782ed82e74a2f2ee212bd4}{%
+           family={Puren},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=548e82b93108d9baa3e547e61a2ad916}{%
+           family={Auvert},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b86ec5ba770bc4e9743ae9d13cc451dc}
+      \strng{fullhash}{d05ba0226be04562bd0a22cf4946edf7}
+      \strng{bibnamehash}{b86ec5ba770bc4e9743ae9d13cc451dc}
+      \strng{authorbibnamehash}{b86ec5ba770bc4e9743ae9d13cc451dc}
+      \strng{authornamehash}{b86ec5ba770bc4e9743ae9d13cc451dc}
+      \strng{authorfullhash}{d05ba0226be04562bd0a22cf4946edf7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Infectious Diseases}
+      \field{number}{1}
+      \field{title}{Adult male circumcision as an intervention against HIV: An operational study of uptake in a South African community (ANRS 12126)}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
+    \entry{putter2006tutorial}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bb04d5cfc5891c418feeb5066f8b0374}{%
+           family={Putter},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=152ddb50175be4157d1fc28abd259203}{%
+           family={Fiocco},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9afef619db66305ba9cc7b1dc5f4b9b4}{%
+           family={Geskus},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f579b6e2a7c35c36c51188ceb06e987}
+      \strng{fullhash}{cf37e46092cfd3736235416215bfc968}
+      \strng{bibnamehash}{cf37e46092cfd3736235416215bfc968}
+      \strng{authorbibnamehash}{cf37e46092cfd3736235416215bfc968}
+      \strng{authornamehash}{1f579b6e2a7c35c36c51188ceb06e987}
+      \strng{authorfullhash}{cf37e46092cfd3736235416215bfc968}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics in Medicine}
+      \field{title}{{T}utorial in biostatistics: {C}ompeting risks and multi-state models}
+      \field{volume}{26}
+      \field{year}{2007}
+      \field{pages}{2389\bibrangedash 2430}
+      \range{pages}{42}
+    \endentry
+    \entry{besag1995conditional}{article}{}
+      \name{author}{2}{}{%
+        {{hash=88cb1cda62a3c1c6c5dfbdb50798c38a}{%
+           family={Besag},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3ca451a580a5c4693b79a549a40cf2ec}{%
+           family={Kooperberg},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{fullhash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{bibnamehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{authorbibnamehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{authornamehash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \strng{authorfullhash}{6ff6bf249cd36e1b2e3c5f9f858ec9b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biometrika}
+      \field{number}{4}
+      \field{title}{On conditional and intrinsic autoregressions}
+      \field{volume}{82}
+      \field{year}{1995}
+      \field{pages}{733\bibrangedash 746}
+      \range{pages}{14}
+    \endentry
+    \entry{knorr2000bayesian}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8303818a78c0ae6ff119962a3d8d30de}{%
+           family={Knorr-Held},
+           familyi={K\bibinithyphendelim H\bibinitperiod},
+           given={Leonhard},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{fullhash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{bibnamehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{authorbibnamehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{authornamehash}{8303818a78c0ae6ff119962a3d8d30de}
+      \strng{authorfullhash}{8303818a78c0ae6ff119962a3d8d30de}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics in medicine}
+      \field{number}{17-18}
+      \field{title}{{B}ayesian modelling of inseparable space-time variation in disease risk}
+      \field{volume}{19}
+      \field{year}{2000}
+      \field{pages}{2555\bibrangedash 2567}
+      \range{pages}{13}
+    \endentry
+    \entry{kish1965survey}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f69c5fab2fb69a8319ca341505ba4b9a}{%
+           family={Kish},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{f69c5fab2fb69a8319ca341505ba4b9a}
+      \strng{fullhash}{f69c5fab2fb69a8319ca341505ba4b9a}
+      \strng{bibnamehash}{f69c5fab2fb69a8319ca341505ba4b9a}
+      \strng{authorbibnamehash}{f69c5fab2fb69a8319ca341505ba4b9a}
+      \strng{authornamehash}{f69c5fab2fb69a8319ca341505ba4b9a}
+      \strng{authorfullhash}{f69c5fab2fb69a8319ca341505ba4b9a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780471489009}
+      \field{series}{A Wiley Interscience Publication}
+      \field{title}{Survey Sampling}
+      \field{year}{1965}
+      \verb{urlraw}
+      \verb https://books.google.co.uk/books?id=gp1qAAAAMAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.co.uk/books?id=gp1qAAAAMAAJ
+      \endverb
+    \endentry
+    \entry{rcore}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{R Foundation for Statistical Computing, Vienna, Austria}
+      \field{title}{{R}: {A} {L}anguage and {E}nvironment for {S}tatistical {C}omputing.}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{kristensen2016tmb}{article}{}
+      \name{author}{5}{}{%
+        {{hash=531743fc9005d9ced7313a8271a90ee2}{%
+           family={Kristensen},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c33d1709da4aeda3565cdabb50b0b55a}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7091e01257e9e2191f88d3277a53c7f5}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=563d31d10ac6f91b41a68d17553ca6a6}{%
+           family={Skaug},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c92b2d64065da998905e1e76746c84fb}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{71b96cba45a76179cdee7a77b5de19f1}
+      \strng{fullhash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \strng{bibnamehash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \strng{authorbibnamehash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \strng{authornamehash}{71b96cba45a76179cdee7a77b5de19f1}
+      \strng{authorfullhash}{8623fbfd7d942b1d0a3de9733f6adeb2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{title}{{TMB}: {A}utomatic differentiation and {L}aplace approximation.}
+      \field{volume}{70}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+    \endentry
+    \entry{byrd1995limited}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e2ac09405cb85135f5a66b1461714aa0}{%
+           family={Byrd},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7105372b0f161d8a7f87fcad27e4fcc9}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a375d39ab0f7a753973e8e3564576d56}{%
+           family={Nocedal},
+           familyi={N\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9c4f74447bd064e137b853534877a881}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{20d5ccbe22faa4fce634d0547c2bb21c}
+      \strng{fullhash}{abd3787977bf9377fef1e9812cd0e396}
+      \strng{bibnamehash}{abd3787977bf9377fef1e9812cd0e396}
+      \strng{authorbibnamehash}{abd3787977bf9377fef1e9812cd0e396}
+      \strng{authornamehash}{20d5ccbe22faa4fce634d0547c2bb21c}
+      \strng{authorfullhash}{abd3787977bf9377fef1e9812cd0e396}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal on scientific computing}
+      \field{number}{5}
+      \field{title}{{A} limited memory algorithm for bound constrained optimization}
+      \field{volume}{16}
+      \field{year}{1995}
+      \field{pages}{1190\bibrangedash 1208}
+      \range{pages}{19}
+    \endentry
+    \entry{eaton2021naomi}{article}{}
+      \name{author}{36}{}{%
+        {{hash=1735f7935ec3925f2deadd58a106ccd5}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=2bf593437206692954a00294bdf1b348}{%
+           family={Dwyer-Lindgren},
+           familyi={D\bibinithyphendelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=dfe05f42bfcbbbf62136937e65ec0b10}{%
+           family={Gutreuter},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=00a526dbcb8590cddbf47e55ce4cd23f}{%
+           family={O'Driscoll},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=569958c3764065e665d1e7b80efb088d}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f42096a0b97a824f8ec3daa6db669d34}{%
+           family={Bajaj},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ba84e9a20aad4ef7f662aedd26be350a}{%
+           family={Ashton},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e2b5bf528e9d001acddf4e8ad46993e3}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bd9a89a2da35d991b4aa09814655c083}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1695a9f6501aaf8f4e067d0938112f35}{%
+           family={Esra},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2e8d5fa4c8966cd6fbe7fb8adc39d962}{%
+           family={Dolan},
+           familyi={D\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=78318d6ceaf624135b4f959a8ea3d204}{%
+           family={Anifowoshe},
+           familyi={A\bibinitperiod},
+           given={Y.\bibnamedelimi L.},
+           giveni={Y\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f27835398a4daa3a7be9517f8ffed34d}{%
+           family={Fellows},
+           familyi={F\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ba995aa9a1069ceb3d168d321a4e525a}{%
+           family={Glaubius},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ea52ec84e26e6536e9619efd30af2fba}{%
+           family={Haeuser},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9701802eb1a02d2161dc4e5dbd5f5a88}{%
+           family={Okonek},
+           familyi={O\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=76daf7ad6078e196686c0c59a80073a9}{%
+           family={Stover},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=92caa5bd2ee7fd3ab419b90bed9bc51a}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=267b1599890a6b301833e267a9e004d8}{%
+           family={Wakefield},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=76b19170816c2f29b661ad5b473a0339}{%
+           family={Wolock},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=076d03fc51a33d1f4e61227ef3b65271}{%
+           family={Berry},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3075fb1b8ac73b4fbcaba7f13c4bd31b}{%
+           family={Sabala},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8820b5987c68cdc8e5c54942a29d2b0a}{%
+           family={Heard},
+           familyi={H\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3736777a8337a6577d1b2adf111dee8b}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=287e0efc769f2ef552a8d7b2f04cacf5}{%
+           family={Pantazis},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c697afcc057a59b19ae9729767b83684}{%
+           family={Jahn},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=149f905ceb173b5376722b237801c41c}{%
+           family={Kalua},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a4dd633c592e44361e5bc1793d08541e}{%
+           family={Chimpandule},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=311c213a910488d23084f6f5fa82d685}{%
+           family={Auld},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=48f44b0a91f1773b3d5345cddb124959}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7f46934a18caf247d0f18d5454281341}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=59946edde15bf5c2a1ddd872ad15ca31}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={L.\bibnamedelimi F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e6d29c8a37c18da79ceca0eaeca7a0f5}{%
+           family={Fitzjohn},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=48a5ae4df8ce0ca17f7f0244831f2009}{%
+           family={Wankyeki},
+           familyi={W\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7292663a1d9e6c15d8fc8b3005478d20}{%
+           family={Mahy},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8066c40be8f1a4fe9b46ef8b86460b8c}{%
+           family={Shiraishi},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{fullhash}{169332753e8c2a0320d2d3ee5dc8e4fc}
+      \strng{bibnamehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{authorbibnamehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{authornamehash}{501c0ea74b8919764912669757d3de0a}
+      \strng{authorfullhash}{169332753e8c2a0320d2d3ee5dc8e4fc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Under review}
+      \field{title}{{N}aomi: {A} {N}ew {M}odelling {T}ool for {E}stimating {HIV} {E}pidemic {I}ndicators at the {D}istrict {L}evel in {S}ub-{S}aharan {A}frica}
+      \field{year}{2021}
+    \endentry
+    \entry{StatsSAPop}{report}{}
+      \name{author}{1}{}{%
+        {{hash=1158ca17c5dd8fa4cd30ff818d5d2a86}{%
+           family={{Statistics South Africa}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1158ca17c5dd8fa4cd30ff818d5d2a86}
+      \strng{fullhash}{1158ca17c5dd8fa4cd30ff818d5d2a86}
+      \strng{bibnamehash}{1158ca17c5dd8fa4cd30ff818d5d2a86}
+      \strng{authorbibnamehash}{1158ca17c5dd8fa4cd30ff818d5d2a86}
+      \strng{authornamehash}{1158ca17c5dd8fa4cd30ff818d5d2a86}
+      \strng{authorfullhash}{1158ca17c5dd8fa4cd30ff818d5d2a86}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{M}id-year population estimates 2020.}
+      \field{type}{techreport}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb http://www.statssa.gov.za/publications/P0302/P03022020.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.statssa.gov.za/publications/P0302/P03022020.pdf
+      \endverb
+    \endentry
+    \entry{johnson2021thembisa}{report}{}
+      \name{author}{2}{}{%
+        {{hash=59946edde15bf5c2a1ddd872ad15ca31}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={L.\bibnamedelimi F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9bd00803337021ab09a96c7e90ff168f}{%
+           family={Dorrington},
+           familyi={D\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5893c657c4e9016e83fc4b09d53dd5c3}
+      \strng{fullhash}{5893c657c4e9016e83fc4b09d53dd5c3}
+      \strng{bibnamehash}{5893c657c4e9016e83fc4b09d53dd5c3}
+      \strng{authorbibnamehash}{5893c657c4e9016e83fc4b09d53dd5c3}
+      \strng{authornamehash}{5893c657c4e9016e83fc4b09d53dd5c3}
+      \strng{authorfullhash}{5893c657c4e9016e83fc4b09d53dd5c3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{M}odelling the impact of {HIV} in {S}outh {A}frica's provinces: 2021 update}
+      \field{type}{techreport}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://thembisa.org/content/downloadPage/Provinces2021
+      \endverb
+      \verb{url}
+      \verb https://thembisa.org/content/downloadPage/Provinces2021
+      \endverb
+    \endentry
+    \entry{hsrc2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=ec4364f5429e5483719af7294cf15c71}{%
+           family={{South Africa Human Sciences Research Council}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{fullhash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{bibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorbibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authornamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorfullhash}{ec4364f5429e5483719af7294cf15c71}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{S}outh {A}frican {N}ational {HIV} {P}revalence, {I}ncidence and {B}ehaviour {S}urvey, 2017}
+      \field{type}{techreport}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://repository.hsrc.ac.za/bitstream/handle/20.500.11910/15052/11091.pdf
+      \endverb
+      \verb{url}
+      \verb https://repository.hsrc.ac.za/bitstream/handle/20.500.11910/15052/11091.pdf
+      \endverb
+    \endentry
+    \entry{hsrc2012}{report}{}
+      \name{author}{1}{}{%
+        {{hash=ec4364f5429e5483719af7294cf15c71}{%
+           family={{South Africa Human Sciences Research Council}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{fullhash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{bibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorbibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authornamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorfullhash}{ec4364f5429e5483719af7294cf15c71}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{S}outh {A}frican {N}ational {HIV} {P}revalence, {I}ncidence and {B}ehaviour {S}urvey, 2012}
+      \field{type}{techreport}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.hsrcpress.ac.za/books/south-african-national-hiv-prevalence-incidence-and-behaviour-survey-2012
+      \endverb
+      \verb{url}
+      \verb https://www.hsrcpress.ac.za/books/south-african-national-hiv-prevalence-incidence-and-behaviour-survey-2012
+      \endverb
+    \endentry
+    \entry{hsrc2008}{report}{}
+      \name{author}{1}{}{%
+        {{hash=ec4364f5429e5483719af7294cf15c71}{%
+           family={{South Africa Human Sciences Research Council}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{fullhash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{bibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorbibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authornamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorfullhash}{ec4364f5429e5483719af7294cf15c71}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{S}outh {A}frican {N}ational {HIV} {P}revalence, {HIV} {I}ncidence, {B}ehaviour and {C}ommunication {S}urvey, 2008}
+      \field{type}{techreport}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.hsrcpress.ac.za/books/south-african-national-hiv-prevalence-incidence-behaviour-and-communication-survey-2008
+      \endverb
+      \verb{url}
+      \verb https://www.hsrcpress.ac.za/books/south-african-national-hiv-prevalence-incidence-behaviour-and-communication-survey-2008
+      \endverb
+    \endentry
+    \entry{hsrc2002}{report}{}
+      \name{author}{1}{}{%
+        {{hash=ec4364f5429e5483719af7294cf15c71}{%
+           family={{South Africa Human Sciences Research Council}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{fullhash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{bibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorbibnamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authornamehash}{ec4364f5429e5483719af7294cf15c71}
+      \strng{authorfullhash}{ec4364f5429e5483719af7294cf15c71}
+      \field{extraname}{4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{N}elson {M}andela {HSRC} {S}tudy of {HIV/AIDS}: {F}ull {R}eport. {S}outh {A}frican {N}ational {HIV} prevalence, behavioural risks and mass media. {H}ousehold survey 2002}
+      \field{type}{techreport}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://www.hsrcpress.ac.za/books/nelson-mandela-hsrc-study-of-hiv-aids-full-report
+      \endverb
+      \verb{url}
+      \verb https://www.hsrcpress.ac.za/books/nelson-mandela-hsrc-study-of-hiv-aids-full-report
+      \endverb
+    \endentry
+    \entry{dhs2016}{report}{}
+      \name{author}{1}{}{%
+        {{hash=73c4739ab416622d503703deb9ba60e6}{%
+           family={{South Africa National Department of Health}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{73c4739ab416622d503703deb9ba60e6}
+      \strng{fullhash}{73c4739ab416622d503703deb9ba60e6}
+      \strng{bibnamehash}{73c4739ab416622d503703deb9ba60e6}
+      \strng{authorbibnamehash}{73c4739ab416622d503703deb9ba60e6}
+      \strng{authornamehash}{73c4739ab416622d503703deb9ba60e6}
+      \strng{authorfullhash}{73c4739ab416622d503703deb9ba60e6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{S}outh {A}frican {D}emographic and {H}ealth {S}urvey 2016}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://dhsprogram.com/pubs/pdf/FR337/FR337.pdf
+      \endverb
+      \verb{url}
+      \verb https://dhsprogram.com/pubs/pdf/FR337/FR337.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
