@@ -8,10 +8,12 @@ Unfortunately, we are unable to make the full input data publicly accessible due
 
 The repository contains the following: 
 
-1) Code - This folder contains all the code required to rerun the analysis 
+* Code - This folder contains all the code required to rerun the analysis 
 	* 0_Source.R - File containing source code
 	* 1_Run_SurveyOnlyModel.R - File to run the survey only model	* 2_Run_FullModel.R - File to run the full model, using both data sources	* 3a_CollateResults_SingleAge_Probability.R - File to produce estimated probabilities of circumcision in single-year age groups	* 3b_CollateResults_AgeGroup_Probability.R - File to produce estimated probabilities of circumcision in five-year and other key age groups. 	* 4a_CollateResults_SingleAge_Incidence.R - File to produce estimated incidence of circumcision in single-year age groups	* 4b_CollateResults_AgeGroup_Incidence.R - File to produce estimated incidence of circumcision in five-year and other key age groups. 	* 5a_CollateResults_SingleAge_Coverage.R - File to produce estimated circumcision coverage in single-year age groups	* 5b_CollateResults_AgeGroup_Coverage.R - File to produce estimated circumcision coverage in five-year and other key age groups. 
-2) Paper - This folder contains all the code and LaTeX to reconstruct the manuscript
+	* 6_PosteriorPredictiveChecks.R - File to conduct the posterior predictive checks of both models
+	
+* Paper - This folder contains all the code and LaTeX to reconstruct the manuscript
 	* nature-comms-med - This folder contains the first submission to Nature Communications Medicine
 	* nature-comms-med-rev - This folder contains the revised manuscript after review from Nature Communcations Medicine
 
