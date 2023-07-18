@@ -4,6 +4,8 @@ This repository contains the code and the LaTeX to accompany the manuscript enti
 
 Unfortunately, we are unable to make the full input data publicly accessible due to terms of data use agreement with the South Africa National Department of Health and the Human Sciences Research.  Please refer to the Data Access Statement in the manuscript to obtain the information and links to register/request each of the data sources used in the analysis.
 
+An R package implementing an extended version of the methods from the manuscript is currently being constructed and is available from \url{https://github.com/mrc-ide/threemc}. This package will include example data sets capable of demonstrating the model.
+
 ## Contents
 
 The repository contains the following: 
@@ -15,7 +17,7 @@ The repository contains the following:
 	
 * Paper - This folder contains all the code and LaTeX to reconstruct the manuscript
 	* nature-comms-med - This folder contains the first submission to Nature Communications Medicine
-	* nature-comms-med-rev - This folder contains the revised manuscript after review from Nature Communcations Medicine
+	* nature-comms-med-rev - This folder contains the revised manuscript after review from Nature Communications Medicine
 
 
 
