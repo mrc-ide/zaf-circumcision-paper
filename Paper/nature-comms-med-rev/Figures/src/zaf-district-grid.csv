@@ -1,0 +1,53 @@
+code,code_area_id,name_province,name_district,row,col
+DC34,ZAF_2_DC34,Limpopo,Vhembe,1,8
+DC36,ZAF_2_DC36,Limpopo,Waterberg,1,6
+DC35,ZAF_2_DC35,Limpopo,Capricorn,1,7
+DC47,ZAF_2_DC47,Limpopo,Sekhukhune,2,7
+DC33,ZAF_2_DC33,Limpopo,Mopani,2,8
+TSH,ZAF_2_TSH,Gauteng,Tshwane,2,6
+DC32,ZAF_2_DC32,Mpumalanga,Ehlanzeni,3,8
+DC31,ZAF_2_DC31,Mpumalanga,Nkangala,3,7
+DC37,ZAF_2_DC37,North West,Bojanala Platinum,3,4
+EKU,ZAF_2_EKU,Gauteng,Ekurhuleni,3,6
+JHB,ZAF_2_JHB,Gauteng,Johannesburg,3,5
+DC38,ZAF_2_DC38,North West,Ngaka Modiri Molema,3,3
+DC39,ZAF_2_DC39,North West,Ruth Segomotsi Mompati,4,3
+DC48,ZAF_2_DC48,Gauteng,West Rand,4,5
+DC30,ZAF_2_DC30,Mpumalanga,G Sibande,4,7
+DC42,ZAF_2_DC42,Gauteng,Sedibeng,4,6
+DC40,ZAF_2_DC40,North West,Dr K Kaunda,4,4
+DC45,ZAF_2_DC45,Northern Cape,J T Gaetsewe,4,2
+DC20,ZAF_2_DC20,Free State,Fezile Dabi,5,5
+DC27,ZAF_2_DC27,KwaZulu-Natal,Umkhanyakude,5,9
+DC26,ZAF_2_DC26,KwaZulu-Natal,Zululand,5,8
+DC25,ZAF_2_DC25,KwaZulu-Natal,Amajuba,5,7
+DC18,ZAF_2_DC18,Free State,Lejweleputswa,5,4
+DC9,ZAF_2_DC9,Northern Cape,Frances Baard,5,3
+DC8,ZAF_2_DC8,Northern Cape,ZF Mgcawu,5,2
+DC19,ZAF_2_DC19,Free State,T Mofutsanyana,5,6
+DC23,ZAF_2_DC23,KwaZulu-Natal,Uthukela,6,7
+DC24,ZAF_2_DC24,KwaZulu-Natal,Umzinyathi,6,8
+DC28,ZAF_2_DC28,KwaZulu-Natal,King Cetshwayo,6,9
+DC6,ZAF_2_DC6,Northern Cape,Namakwa,6,2
+MAN,ZAF_2_MAN,Free State,Mangaung,6,4
+DC7,ZAF_2_DC7,Northern Cape,Pixley ka Seme,6,3
+DC16,ZAF_2_DC16,Free State,Xhariep,7,4
+DC22,ZAF_2_DC22,KwaZulu-Natal,uMgungundlovu,7,7
+DC29,ZAF_2_DC29,KwaZulu-Natal,iLembe,7,9
+DC5,ZAF_2_DC5,Western Cape,Central Karoo,7,3
+ETH,ZAF_2_ETH,KwaZulu-Natal,eThekwini,7,8
+DC14,ZAF_2_DC14,Eastern Cape,Joe Gqabi,7,5
+DC43,ZAF_2_DC43,KwaZulu-Natal,Harry Gwala,8,7
+DC2,ZAF_2_DC2,Western Cape,Cape Winelands,8,2
+DC1,ZAF_2_DC1,Western Cape,West Coast,8,1
+DC44,ZAF_2_DC44,Eastern Cape,A Nzo,8,6
+DC10,ZAF_2_DC10,Eastern Cape,Sarah Baartman,8,4
+DC4,ZAF_2_DC4,Western Cape,Garden Route,8,3
+DC21,ZAF_2_DC21,KwaZulu-Natal,Ugu,8,8
+DC13,ZAF_2_DC13,Eastern Cape,C Hani,8,5
+DC15,ZAF_2_DC15,Eastern Cape,O Tambo,9,7
+CPT,ZAF_2_CPT,Western Cape,Cape Town,9,1
+DC3,ZAF_2_DC3,Western Cape,Overberg,9,2
+BUF,ZAF_2_BUF,Eastern Cape,Buffalo City,9,5
+DC12,ZAF_2_DC12,Eastern Cape,Amathole,9,6
+NMA,ZAF_2_NMA,Eastern Cape,N Mandela Bay,9,4
