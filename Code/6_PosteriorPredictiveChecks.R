@@ -5,7 +5,7 @@
 rm(list = ls())
 
 # Setting working directory 
-setwd("~/Dropbox/zaf-circumcision-rates/Transfer/20230606")
+setwd("~/Dropbox/zaf-circumcision-rates/")
 
 # Loading package
 library(dplyr)
@@ -18,11 +18,11 @@ require(plyr)
 ### Load models and save sample probabilities ###
 #################################################
 #' Loading in survey only model
-load("TMBObjects_DistrictAgeTime_ByType.RData")
+load("Output/Models/TMBObjects_DistrictAgeTime_ByType.RData")
 fit_so <- fit
 
 #' Loading in full model
-load("TMBObjects_DistrictAgeTime_ByType_withProgram_withBorrowing.RData")
+load("Output/Models/TMBObjects_DistrictAgeTime_ByType_withProgram_withBorrowing.RData")
 fit_full <- fit
 
 # Removing unecessary objects
@@ -37,8 +37,8 @@ tmc_prop_full <- fit_full$sample$cum_inc_tmc
 mmc_prop_full <- fit_full$sample$cum_inc_mmc
 
 #' Model output frame dataset
-out_so <- read_csv("Results_DistrictAgeTime_ByType.csv")
-out_full <- read_csv("Results_DistrictAgeTime_ByType_withProgram_withBorrowing.csv")
+out_so <- read_csv("Output/Predictions/Results_DistrictAgeTime_ByType.csv")
+out_full <- read_csv("Output/Predictions/Results_DistrictAgeTime_ByType_withProgram_withBorrowing.csv")
 
 #' Assign row index to output frame -> identify rows in samples
 out_idx <- out_so %>%
@@ -49,12 +49,12 @@ out_idx <- out_so %>%
 ### Prepare survey data set ###
 ###############################
 # Loading in area_hierarchy
-areas <- read_csv("zaf_area_hierarchy.csv")
+area_hierarchy <- read.csv("~/Dropbox/Github/zaf-subnational-hiv/data/zaf_area_hierarchy.csv")
 
 # Loading in survey datasets
-survey_circumcision <- read_csv("zaf_survey_circumcision.csv", guess_max = 1E5)
-survey_individuals <- read_csv("zaf_survey_individuals.csv", guess_max = 1E5)
-survey_clusters <- read_csv("zaf_survey_clusters.csv", guess_max = 1E5)
+survey_circumcision <- read_csv("~/Dropbox/Github/zaf-subnational-hiv/data/survey/zaf_survey_circumcision.csv", guess_max = 1E5)
+survey_individuals <- read_csv("~/Dropbox/Github/zaf-subnational-hiv/data/survey/zaf_survey_individuals.csv", guess_max = 1E5)
+survey_clusters <- read_csv("~/Dropbox/Github/zaf-subnational-hiv/data/survey/zaf_survey_clusters.csv", guess_max = 1E5)
 
 # Merging all together
 survey_obs <- survey_circumcision %>%

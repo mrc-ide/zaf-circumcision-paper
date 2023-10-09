@@ -5,7 +5,7 @@
 rm(list = ls())
 
 # Setting working directory 
-setwd('~/Dropbox/Github/zaf-circumcision-paper')
+setwd('~/Dropbox/zaf-circumcision-rates')
 
 # Loading source code 
 source('Code/0_Source.R')
@@ -16,20 +16,20 @@ N <- 100
 ################################################
 ### Preparing location/shapefile information ###
 ################################################
-# Loading shapefiles and area hierarchy 
-area_hierarchy <- read.csv("Data/zaf_area_hierarchy.csv")
-area_boundaries <- read_sf("Data/zaf_area_boundaries.geojson")
+# Loading shapefiles 
+area_hierarchy <- read.csv("~/Dropbox/Github/zaf-subnational-hiv/data/zaf_area_hierarchy.csv")
+area_boundaries <- read_sf("~/Dropbox/Github/zaf-subnational-hiv/data/zaf_area_boundaries.geojson")
 
 # Adding a unique identifier within Admin code and merging to boundaries
-area_hierarchy <- area_hierarchy %>% 
-  group_by(area_level) %>% 
+area_hierarchy <- area_hierarchy %>%
+  group_by(area_level) %>%
   mutate(space = seq(dplyr::n())) %>%
   ungroup()
 
 # Adding a unique identifier within Admin code and merging to boundaries
-area_boundaries <- area_hierarchy %>% 
-  group_by(area_level) %>% 
-  mutate(space = seq(dplyr::n())) %>% 
+area_boundaries <- area_hierarchy %>%
+  group_by(area_level) %>%
+  mutate(space = seq(dplyr::n())) %>%
   left_join(x =  area_boundaries,
             by = 'area_id') %>%
   ungroup()
@@ -38,17 +38,17 @@ area_boundaries <- area_hierarchy %>%
 ### Loading rates from survival model ###
 #########################################
 # Model with total rate
-tmp1 <- read_csv('Output/Predictions/Results_SurveyOnlyModel.csv'); tmp1$model <- 'No program data'
+tmp1 <- read_csv('Output/Predictions/Results_DistrictAgeTime_ByType.csv'); tmp1$model <- 'No program data'
 tmp1_1 <- tmp1; tmp1_2 <- tmp1; tmp1_3 <- tmp1; tmp1_4 <- tmp1; tmp1_5 <- tmp1; tmp1_6 <- tmp1; tmp1_7 <- tmp1;
-load('Output/Models/TMBObjects_SurveyOnlyModel.RData')
+load('Output/Models/TMBObjects_DistrictAgeTime_ByType.RData')
 
 # Extracting samples for the prevalence
-tmp1_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N];                                tmp1_1$type <- 'MMC-nT coverage'
-tmp1_2[, paste('samp_', 1:N, sep = '')] <- 0;                                                           tmp1_2$type <- 'MMC-T coverage'
-tmp1_3[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N];                                tmp1_3$type <- 'TMC coverage'
-tmp1_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N];                                tmp1_4$type <- 'MMC coverage'
-tmp1_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N];                                tmp1_5$type <- 'TMIC coverage'
-tmp1_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N] + fit$sample$cum_inc_tmc[,1:N]; tmp1_6$type <- 'MC coverage'
+tmp1_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N];                                tmp1_1$type <- 'Circumcision coverage (MMC-nT)'
+tmp1_2[, paste('samp_', 1:N, sep = '')] <- 0;                                                           tmp1_2$type <- 'Circumcision coverage (MMC-T)'
+tmp1_3[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N];                                tmp1_3$type <- 'Circumcision coverage (TMC)'
+tmp1_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N];                                tmp1_4$type <- 'Circumcision coverage (MMC)'
+tmp1_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N];                                tmp1_5$type <- 'Circumcision coverage (TMIC)'
+tmp1_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N] + fit$sample$cum_inc_tmc[,1:N]; tmp1_6$type <- 'Circumcision coverage (MC)'
 
 # Appending things togehter 
 tmp1 <- rbind(tmp1_1, tmp1_2, tmp1_3, tmp1_4, tmp1_5, tmp1_6)
@@ -57,21 +57,20 @@ tmp1 <- rbind(tmp1_1, tmp1_2, tmp1_3, tmp1_4, tmp1_5, tmp1_6)
 tmp1 <- tmp1[,c('area_id', "year", "age", "population", "type", "model", paste('samp_', 1:N, sep = ''))]
 
 # Removing unecessary datasets 
-rm(tmp1_1, tmp1_2, tmp1_3, tmp1_4, tmp1_5, tmp1_6)
+rm(tmp1_1, tmp1_2, tmp1_3, tmp1_4, tmp1_5, tmp1_6, tmp1_7)
 
 # Model with total rate
-tmp2 <- read_csv('Output/Predictions/Results_FullModel.csv'); tmp2$model <- 'With program data'
+tmp2 <- read_csv('Output/Predictions/Results_DistrictAgeTime_ByType_withProgram_withBorrowing.csv'); tmp2$model <- 'With program data'
 tmp2_1 <- tmp2; tmp2_2 <- tmp2; tmp2_3 <- tmp2; tmp2_4 <- tmp2; tmp2_5 <- tmp2; tmp2_6 <- tmp2; 
-# tmp2_7 <- tmp2; tmp2_8 <- tmp2; tmp2_9 <- tmp2; tmp2_10 <- tmp2;
-load('Output/Models/TMBObjects_FullModel.RData')
+load('Output/Models/TMBObjects_DistrictAgeTime_ByType_withProgram_withBorrowing.RData')
 
 # Extracting samples for the prevalence
-tmp2_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N];                                  tmp2_1$type <- 'MMC-nT coverage'
-tmp2_2[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmct[,1:N];                                 tmp2_2$type <- 'MMC-T coverage'
-tmp2_3[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N];                                  tmp2_3$type <- 'TMC coverage'
-tmp2_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N] + fit$sample$cum_inc_mmct[,1:N];  tmp2_4$type <- 'MMC coverage'
-tmp2_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N] + fit$sample$cum_inc_mmct[,1:N];  tmp2_5$type <- 'TMIC coverage'
-tmp2_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N] + fit$sample$cum_inc_tmc[,1:N] + fit$sample$cum_inc_mmct[,1:N]; tmp2_6$type <- 'MC coverage'
+tmp2_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N];                                  tmp2_1$type <- 'Circumcision coverage (MMC-nT)'
+tmp2_2[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmct[,1:N];                                 tmp2_2$type <- 'Circumcision coverage (MMC-T)'
+tmp2_3[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N];                                  tmp2_3$type <- 'Circumcision coverage (TMC)'
+tmp2_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N] + fit$sample$cum_inc_mmct[,1:N];  tmp2_4$type <- 'Circumcision coverage (MMC)'
+tmp2_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_tmc[,1:N] + fit$sample$cum_inc_mmct[,1:N];  tmp2_5$type <- 'Circumcision coverage (TMIC)'
+tmp2_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$cum_inc_mmc[,1:N] + fit$sample$cum_inc_tmc[,1:N] + fit$sample$cum_inc_mmct[,1:N]; tmp2_6$type <- 'Circumcision coverage (MC)'
 
 # Appending things togehter 
 tmp2 <- rbind(tmp2_1, tmp2_2, tmp2_3, tmp2_4, tmp2_5, tmp2_6)
@@ -80,8 +79,7 @@ tmp2 <- rbind(tmp2_1, tmp2_2, tmp2_3, tmp2_4, tmp2_5, tmp2_6)
 tmp2 <- tmp2[,c('area_id', "year", "age", "population", "type", "model", paste('samp_', 1:N, sep = ''))]
 
 # Removing unecessary datasets 
-rm(tmp2_1, tmp2_2, tmp2_3, tmp2_4, tmp2_5, tmp2_6, 
-   tmp2_7, tmp2_8, tmp2_9, tmp2_10, tmp2_11, tmp2_12)
+rm(tmp2_1, tmp2_2, tmp2_3, tmp2_4, tmp2_5, tmp2_6)
 
 # Appending things together 
 results <- rbind(tmp1, tmp2)
@@ -126,7 +124,7 @@ results <- NULL
 
 # Looping for each age group
 for (i in c('0-4',   '5-9',   '10-14', '15-19', '20-24', '25-29',
-            '30-34', '35-39', '40-44', '45-49', '50-54', '54-59',
+            '30-34', '35-39', '40-44', '45-49', '50-54', '55-59',
             '0+',    '10+',   '15+',   '15-24', '10-24', '15-29', 
             '10-29', '15-39', '10-39', '15-49', '10-49', '25-49')){
   # If upper limit use this split
@@ -171,12 +169,12 @@ results[,paste('samp_',1:N,sep='')] <- results[,paste('samp_',1:N,sep='')] / res
 ### Getting change in prevalence ###
 ####################################
 # Getting prevalence estimates 
-tmp1 <- subset(results, type == 'MMC-nT coverage')
-tmp2 <- subset(results, type == 'MMC-T coverage')
-tmp3 <- subset(results, type == 'TMC coverage')
-tmp4 <- subset(results, type == 'MMC coverage')
-tmp5 <- subset(results, type == 'TMIC coverage')
-tmp6 <- subset(results, type == 'MC coverage')
+tmp1 <- subset(results, type == 'Circumcision coverage (MMC-nT)')
+tmp2 <- subset(results, type == 'Circumcision coverage (MMC-T)')
+tmp3 <- subset(results, type == 'Circumcision coverage (TMC)')
+tmp4 <- subset(results, type == 'Circumcision coverage (MMC)')
+tmp5 <- subset(results, type == 'Circumcision coverage (TMIC)')
+tmp6 <- subset(results, type == 'Circumcision coverage (MC)')
 
 # Samples for the change in prevalence from 2010
 for (i in c(2006:2007, 2009:2020, 2008)){
@@ -195,12 +193,12 @@ for (i in c(2006:2007, 2009:2020, 2008)){
 }
 
 # Relabelling the results 
-tmp1$type <- 'Change in MMC-nT coverage from 2008'
-tmp2$type <- 'Change in MMC-T coverage from 2008'
-tmp3$type <- 'Change in TMC coverage from 2008'
-tmp4$type <- 'Change in MMC coverage from 2008'
-tmp5$type <- 'Change in TMIC coverage from 2008'
-tmp6$type <- 'Change in MC coverage from 2008'
+tmp1$type <- 'Change in circumcision coverage (MMC-nT) from 2008'
+tmp2$type <- 'Change in circumcision coverage (MMC-T) from 2008'
+tmp3$type <- 'Change in circumcision coverage (TMC) from 2008'
+tmp4$type <- 'Change in circumcision coverage (MMC) from 2008'
+tmp5$type <- 'Change in circumcision coverage (TMIC) from 2008'
+tmp6$type <- 'Change in circumcision coverage (MC) from 2008'
 
 # Appending together 
 results <- rbind(results, tmp1, tmp2, tmp3, tmp4, tmp5, tmp6)
@@ -212,13 +210,13 @@ rm(tmp1, tmp2, tmp3, tmp4, tmp5, tmp6)
 ### Getting number of people circumcised ###
 ############################################
 # Getting number of circumcised men
-tmp1 <- subset(results, type == 'MMC-nT coverage')
-tmp2 <- subset(results, type == 'MMC-T coverage')
-tmp3 <- subset(results, type == 'TMC coverage')
-tmp4 <- subset(results, type == 'MMC coverage')
-tmp5 <- subset(results, type == 'TMIC coverage')
-tmp6 <- subset(results, type == 'MC coverage')
-tmp7 <- subset(results, type == 'MC coverage')
+tmp1 <- subset(results, type == 'Circumcision coverage (MMC-nT)')
+tmp2 <- subset(results, type == 'Circumcision coverage (MMC-T)')
+tmp3 <- subset(results, type == 'Circumcision coverage (TMC)')
+tmp4 <- subset(results, type == 'Circumcision coverage (MMC)')
+tmp5 <- subset(results, type == 'Circumcision coverage (TMIC)')
+tmp6 <- subset(results, type == 'Circumcision coverage (MC)')
+tmp7 <- subset(results, type == 'Circumcision coverage (MC)')
 
 # Getting circumcised population by type
 tmp1[, paste('samp_', 1:N, sep = '')] <- tmp1$population * tmp1[, paste('samp_', 1:N, sep = '')]
@@ -230,13 +228,13 @@ tmp6[, paste('samp_', 1:N, sep = '')] <- tmp6$population * tmp6[, paste('samp_',
 tmp7[, paste('samp_', 1:N, sep = '')] <- tmp7$population * (1 - tmp7[, paste('samp_', 1:N, sep = '')])
 
 # Relabelling the results 
-tmp1$type <- 'Number circumcised (MMC-nT)'
-tmp2$type <- 'Number circumcised (MMC-T)'
-tmp3$type <- 'Number circumcised (TMC)'
-tmp4$type <- 'Number circumcised (MMC)'
-tmp5$type <- 'Number circumcised (TMIC)'
-tmp6$type <- 'Number circumcised'
-tmp7$type <- 'Unmet need'
+tmp1$type <- 'Total number circumcised (MMC-nT)'
+tmp2$type <- 'Total number circumcised (MMC-T)'
+tmp3$type <- 'Total number circumcised (TMC)'
+tmp4$type <- 'Total number circumcised (MMC)'
+tmp5$type <- 'Total number circumcised (TMIC)'
+tmp6$type <- 'Total number circumcised (MC)'
+tmp7$type <- 'Total number uncircumcised/Unmet need'
 
 # Appending together 
 results <- rbind(results, tmp1, tmp2, tmp3, tmp4, tmp5, tmp6, tmp7)

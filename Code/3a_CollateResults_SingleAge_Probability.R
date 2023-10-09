@@ -5,7 +5,7 @@
 rm(list = ls())
 
 # Setting working directory 
-setwd('~/Dropbox/Github/zaf-circumcision-paper')
+setwd('~/Dropbox/zaf-circumcision-rates')
 
 # Loading source code 
 source('Code/0_Source.R')
@@ -16,20 +16,20 @@ N <- 100
 ################################################
 ### Preparing location/shapefile information ###
 ################################################
-# Loading shapefiles and area hierarchy 
-area_hierarchy <- read.csv("Data/zaf_area_hierarchy.csv")
-area_boundaries <- read_sf("Data/zaf_area_boundaries.geojson")
+# Loading shapefiles 
+area_hierarchy <- read.csv("~/Dropbox/Github/zaf-subnational-hiv/data/zaf_area_hierarchy.csv")
+area_boundaries <- read_sf("~/Dropbox/Github/zaf-subnational-hiv/data/zaf_area_boundaries.geojson")
 
 # Adding a unique identifier within Admin code and merging to boundaries
-area_hierarchy <- area_hierarchy %>% 
-  group_by(area_level) %>% 
+area_hierarchy <- area_hierarchy %>%
+  group_by(area_level) %>%
   mutate(space = seq(dplyr::n())) %>%
   ungroup()
 
 # Adding a unique identifier within Admin code and merging to boundaries
-area_boundaries <- area_hierarchy %>% 
-  group_by(area_level) %>% 
-  mutate(space = seq(dplyr::n())) %>% 
+area_boundaries <- area_hierarchy %>%
+  group_by(area_level) %>%
+  mutate(space = seq(dplyr::n())) %>%
   left_join(x =  area_boundaries,
             by = 'area_id') %>%
   ungroup()
@@ -38,17 +38,17 @@ area_boundaries <- area_hierarchy %>%
 ### Loading rates from survival model ###
 #########################################
 # Model with Probability of MC
-tmp1 <- read_csv('Output/Predictions/Results_SurveyOnlyModel.csv'); tmp1$model <- 'No program data'
+tmp1 <- read_csv('Output/Predictions/Results_DistrictAgeTime_ByType.csv'); tmp1$model <- 'No program data'
 tmp1_1 <- tmp1; tmp1_2 <- tmp1; tmp1_3 <- tmp1; tmp1_4 <- tmp1; tmp1_5 <- tmp1; tmp1_6 <- tmp1; 
-load('Output/Models/TMBObjects_SurveyOnlyModel.RData')
+load('Output/Models/TMBObjects_DistrictAgeTime_ByType.RData')
 
 # Extracting samples for the hazard rate
-tmp1_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N];                             tmp1_1$type <- 'Probability of MMC-nT'
-tmp1_2[, paste('samp_', 1:N, sep = '')] <- 0;                                                    tmp1_2$type <- 'Probability of MMC-T'
-tmp1_3[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N];                             tmp1_3$type <- 'Probability of TMC'
-tmp1_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N];                             tmp1_4$type <- 'Probability of MMC'
-tmp1_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N];                             tmp1_5$type <- 'Probability of TMIC'
-tmp1_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N] + fit$sample$haz_tmc[,1:N];  tmp1_6$type <- 'Probability of MC'
+tmp1_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N];                             tmp1_1$type <- 'Probability of circumcision (MMC-nT)'
+tmp1_2[, paste('samp_', 1:N, sep = '')] <- 0;                                                    tmp1_2$type <- 'Probability of circumcision (MMC-T)'
+tmp1_3[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N];                             tmp1_3$type <- 'Probability of circumcision (TMC)'
+tmp1_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N];                             tmp1_4$type <- 'Probability of circumcision (MMC)'
+tmp1_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N];                             tmp1_5$type <- 'Probability of circumcision (TMIC)'
+tmp1_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N] + fit$sample$haz_tmc[,1:N];  tmp1_6$type <- 'Probability of circumcision (MC)'
 
 # Appending things togehter 
 tmp1 <- rbind(tmp1_1, tmp1_2, tmp1_3, tmp1_4, tmp1_5, tmp1_6)
@@ -60,17 +60,17 @@ tmp1 <- tmp1[,c('area_id', "year", "age", "population", "type", "model", paste('
 rm(tmp1_1, tmp1_2, tmp1_3, tmp1_4, tmp1_5, tmp1_6)
 
 # Model with Probability of MC
-tmp2 <- read_csv('Output/Predictions/Results_FullModel.csv'); tmp2$model <- 'With program data'
+tmp2 <- read_csv('Output/Predictions/Results_DistrictAgeTime_ByType_withProgram_withBorrowing.csv'); tmp2$model <- 'With program data'
 tmp2_1 <- tmp2; tmp2_2 <- tmp2; tmp2_3 <- tmp2; tmp2_4 <- tmp2; tmp2_5 <- tmp2; tmp2_6 <- tmp2; 
-load('Output/Models/TMBObjects_FullModel.RData')
+load('Output/Models/TMBObjects_DistrictAgeTime_ByType_withProgram_withBorrowing.RData')
 
 # Extracting samples for the hazard rate
-tmp2_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N];                                                     tmp2_1$type <- 'Probability of MMC-nT'
-tmp2_2[, paste('samp_', 1:N, sep = '')] <- fit$sample$probs[,1:N] * fit$sample$haz_tmc[,1:N];                            tmp2_2$type <- 'Probability of MMC-T'
-tmp2_3[, paste('samp_', 1:N, sep = '')] <- (1 - fit$sample$probs[,1:N]) * fit$sample$haz_tmc[,1:N];                      tmp2_3$type <- 'Probability of TMC'
-tmp2_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N] + fit$sample$probs[,1:N] * fit$sample$haz_tmc[,1:N]; tmp2_4$type <- 'Probability of MMC'
-tmp2_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N];                                                     tmp2_5$type <- 'Probability of TMIC'
-tmp2_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N] + fit$sample$haz_tmc[,1:N];                          tmp2_6$type <- 'Probability of MC'
+tmp2_1[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N];                                                     tmp2_1$type <- 'Probability of circumcision (MMC-nT)'
+tmp2_2[, paste('samp_', 1:N, sep = '')] <- fit$sample$probs[,1:N] * fit$sample$haz_tmc[,1:N];                            tmp2_2$type <- 'Probability of circumcision (MMC-T)'
+tmp2_3[, paste('samp_', 1:N, sep = '')] <- (1 - fit$sample$probs[,1:N]) * fit$sample$haz_tmc[,1:N];                      tmp2_3$type <- 'Probability of circumcision (TMC)'
+tmp2_4[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N] + fit$sample$probs[,1:N] * fit$sample$haz_tmc[,1:N]; tmp2_4$type <- 'Probability of circumcision (MMC)'
+tmp2_5[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_tmc[,1:N];                                                     tmp2_5$type <- 'Probability of circumcision (TMIC)'
+tmp2_6[, paste('samp_', 1:N, sep = '')] <- fit$sample$haz_mmc[,1:N] + fit$sample$haz_tmc[,1:N];                          tmp2_6$type <- 'Probability of circumcision (MC)'
 
 # Appending things togehter 
 tmp2 <- rbind(tmp2_1, tmp2_2, tmp2_3, tmp2_4, tmp2_5, tmp2_6)
@@ -175,7 +175,7 @@ results <- results %>%
 ### Saving files ###
 ####################
 # Saving files 
-write_csv(results, file = 'Output/Analysis/Results_Age_Probability.csv')
+write_csv(results, file = 'Output/Analysis/Results_SingleAge_Probability.csv')
 
 # Clearing Workspace
 rm(list = ls())
